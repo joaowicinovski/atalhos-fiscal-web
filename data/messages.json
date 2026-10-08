@@ -1,8 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T11:02:01-04:00",
+  "generated_at": "2026-10-08T13:05:04-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
+    {
+      "id": "113c4072-029c-42fc-977a-cf2281e8ba04",
+      "title": "teste",
+      "category": "Outros",
+      "keywords": [
+        "teste"
+      ],
+      "text": "_*teste*_ 😁😊",
+      "favorite": false,
+      "updated_at": "2026-10-08T13:04:40-04:00"
+    },
     {
       "id": "3e3f466a-20fc-4da8-b18f-68c1a55362d7",
       "title": "↩️👀Retorno de mercadoria ou bem recebido para demonstração ou mostruário",
