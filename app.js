@@ -13,6 +13,8 @@
     .replace(/~([^~\n]+)~/g, '<s>$1</s>')
     .replace(/\n/g, '<br>');
   const sortByTitle = (a,b) => a.title.localeCompare(b.title,'pt-BR',{sensitivity:'base'});
+  const RAW_DATA_URL = 'https://raw.githubusercontent.com/joaowicinovski/atalhos-fiscal-web/main/data/messages.json';
+  const PAGES_DATA_URL = './data/messages.json';
 
   const getFiltered = () => {
     const terms = normalize($.search.value).split(' ').filter(Boolean);
@@ -72,14 +74,29 @@
     categories.forEach(cat=>{const opt=document.createElement('option');opt.textContent=cat;opt.value=cat;$.category.append(opt);});
     $.category.value=categories.includes(prior)?prior:'';
   }
+  async function fetchDataSource(baseUrl, sourceName) {
+    const separator = baseUrl.includes('?') ? '&' : '?';
+    const response = await fetch(baseUrl + separator + 'v=' + Date.now(), {
+      cache: 'no-store',
+      headers: {'Accept':'application/json'}
+    });
+    if(!response.ok) throw new Error(`${sourceName}: HTTP ${response.status}`);
+    const data = await response.json();
+    if(!Array.isArray(data.messages)) throw new Error(`${sourceName}: formato inesperado`);
+    return {data, sourceName};
+  }
   async function loadData(manual=false) {
     const text=$['sync-status'];
     if(manual) text.textContent='Verificando publicação...';
     try {
-      const response=await fetch('./data/messages.json?v='+Date.now(),{cache:'no-store'});
-      if(!response.ok) throw new Error('HTTP '+response.status);
-      const data=await response.json();
-      if(!Array.isArray(data.messages)) throw new Error('Formato inesperado');
+      let result;
+      try {
+        result = await fetchDataSource(RAW_DATA_URL, 'GitHub');
+      } catch(rawError) {
+        console.warn('Leitura direta do GitHub falhou; usando GitHub Pages como fallback.', rawError);
+        result = await fetchDataSource(PAGES_DATA_URL, 'GitHub Pages');
+      }
+      const data=result.data;
       const clean=data.messages.filter(m=>m && !m.deleted && typeof m.id==='string' && typeof m.title==='string' && typeof m.text==='string').map(m=>({
         id:m.id,title:m.title,category:typeof m.category==='string'?m.category:'Sem categoria',
         keywords:Array.isArray(m.keywords)?m.keywords.filter(v=>typeof v==='string'):[],
@@ -88,7 +105,9 @@
       const fingerprint=JSON.stringify(clean);
       if(fingerprint!==JSON.stringify(messages)) {messages=clean;await refreshCategories();render();}
       $.statusdot.className='statusdot ok';
-      text.textContent=`Web atualizada${data.generated_at ? ' • '+String(data.generated_at).replace('T',' ').slice(0,16):''}`;
+      const updated = data.generated_at ? ' • '+String(data.generated_at).replace('T',' ').slice(0,16) : '';
+      text.textContent=`Dados atualizados${updated}`;
+      text.title=`Fonte: ${result.sourceName}`;
     } catch(err) {
       $.statusdot.className='statusdot error';
       text.textContent=messages.length?'Sem atualização • mostrando a última versão carregada':'Não foi possível carregar as mensagens';
@@ -126,5 +145,5 @@
   let savedTheme='dark';try{savedTheme=localStorage.getItem('atalhos-fiscal-theme')||'dark';}catch(_e){}
   applyTheme(savedTheme);
   loadData();
-  setInterval(()=>{if(!document.hidden) loadData();},60000);
+  setInterval(()=>{if(!document.hidden) loadData();},30000);
 })();
