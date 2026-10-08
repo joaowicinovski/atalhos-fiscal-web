@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Atalhos Fiscal: consulte e copie mensagens prontas com pesquisa e formatação para o WhatsApp.">
+  <meta name="theme-color" content="#171b21">
+  <link rel="icon" type="image/svg+xml" href="./assets/icon.svg">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Atalhos Fiscal Web</title>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><img src="./assets/icon.svg" width="32" height="32" alt="Ícone Atalhos Fiscal"><span>Atalhos Fiscal <small>WEB</small></span></div>
+    <nav class="actions" aria-label="Ações">
+      <button class="topbutton" type="button" id="refresh" title="Buscar alterações publicadas">↻ <span>Atualizar</span></button>
+      <button class="topbutton" type="button" id="theme" title="Alternar tema" aria-label="Alternar modo claro/escuro">☀</button>
+    </nav>
+  </header>
+
+  <main class="main-shell">
+    <div class="intro"><div><h1>ATALHOS FISCAL</h1><p>Biblioteca pública de mensagens prontas. Pesquise, confira e copie.</p></div><div class="sync-status"><span class="statusdot" id="statusdot"></span><span id="sync-status" role="status" aria-live="polite">Carregando mensagens...</span></div></div>
+    <section class="controls" aria-label="Pesquisa e filtros">
+      <label class="searchbox"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar título, tema, palavra-chave, CFOP, CST ou texto..." autocomplete="off" aria-label="Buscar mensagens"></label>
+      <label class="selectbox"><span class="sr-only">Categoria</span><select id="category"><option value="">Todas as categorias</option></select></label>
+      <label class="favcheck"><input id="favorites" type="checkbox"> ★ Favoritos</label>
+    </section>
+    <section class="workspace" aria-label="Mensagens prontas">
+      <aside class="sidebar"><div class="aside-head"><span id="count">0 mensagens</span><span class="aside-note">Selecione um título</span></div><div class="message-list" role="listbox" tabindex="0" aria-label="Resultados" id="message-list"></div></aside>
+      <article class="detail" aria-labelledby="message-title"><div class="detail-head"><h2 id="message-title">Selecione uma mensagem</h2><p id="message-meta"></p><p id="message-keywords"></p></div><div id="message-preview" class="preview" tabindex="0">Escolha uma mensagem na lista para visualizar o texto.</div><div class="detail-actions"><button type="button" id="copy" class="copy" disabled>▣ COPIAR</button><span class="copy-hint" id="copy-hint" aria-live="polite">O texto será copiado com os marcadores do WhatsApp.</span></div></article>
+    </section>
+    <footer><span>Atalhos Fiscal Web • Consulta pública • Conteúdo de responsabilidade de quem publica.</span><span>Licensed by: JP Softwares e Soluções®</span></footer>
+  </main>
+  <script src="./app.js" defer></script>
+</body>
+</html>
