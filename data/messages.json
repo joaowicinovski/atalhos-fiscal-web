@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "generated_at": "",
+  "source": "Exemplos fictícios — não representam orientações fiscais oficiais",
+  "messages": [
+    {
+      "id": "demo-1",
+      "title": "Como utilizar esta biblioteca",
+      "category": "Demonstração",
+      "keywords": ["ajuda", "pesquisa", "copiar", "atalhos"],
+      "text": "📌 *Atalhos Fiscal — versão web*\n\nDigite um tema na barra de pesquisa, escolha uma mensagem e clique em *COPIAR*.\n\nOs marcadores de formatação e emojis são preservados para colar no WhatsApp.\n\n⚠️ _Estes exemplos são fictícios. O conteúdo real será publicado somente após a sincronização autorizada._",
+      "favorite": true,
+      "updated_at": ""
+    },
+    {
+      "id": "demo-2",
+      "title": "Modelo de resposta ao cliente",
+      "category": "Demonstração",
+      "keywords": ["cliente", "modelo", "resposta"],
+      "text": "👋 Olá!\n\n*Assunto:* [informar]\n*Orientação:* [preencher após conferência]\n\n📌 Caso necessário, encaminhe os documentos para análise.\n\n_Exemplo apenas para demonstrar a formatação._",
+      "favorite": false,
+      "updated_at": ""
+    },
+    {
+      "id": "demo-3",
+      "title": "Exemplo de mensagem rural",
+      "category": "Demonstração",
+      "keywords": ["gado", "rural", "cfop", "exemplo"],
+      "text": "🐄 *Operação rural — exemplo*\n\n*CFOP:* [a confirmar]\n*CST/CSOSN:* [a confirmar]\n\n⚠️ Conferir a operação, o regime tributário, o Estado e a legislação vigente antes de enviar uma orientação.\n\n_Esta mensagem contém apenas campos demonstrativos._",
+      "favorite": false,
+      "updated_at": ""
+    }
+  ]
+}
