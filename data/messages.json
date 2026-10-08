@@ -1,34 +1,745 @@
 {
   "schema_version": 1,
-  "generated_at": "",
-  "source": "Exemplos fictícios — não representam orientações fiscais oficiais",
+  "generated_at": "2026-10-08T10:55:56-04:00",
+  "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
-      "id": "demo-1",
-      "title": "Como utilizar esta biblioteca",
-      "category": "Demonstração",
-      "keywords": ["ajuda", "pesquisa", "copiar", "atalhos"],
-      "text": "📌 *Atalhos Fiscal — versão web*\n\nDigite um tema na barra de pesquisa, escolha uma mensagem e clique em *COPIAR*.\n\nOs marcadores de formatação e emojis são preservados para colar no WhatsApp.\n\n⚠️ _Estes exemplos são fictícios. O conteúdo real será publicado somente após a sincronização autorizada._",
-      "favorite": true,
-      "updated_at": ""
+      "id": "3e3f466a-20fc-4da8-b18f-68c1a55362d7",
+      "title": "↩️👀Retorno de mercadoria ou bem recebido para demonstração ou mostruário",
+      "category": "Imobilizados",
+      "keywords": [
+        "Imobilizados"
+      ],
+      "text": "*↩️👀Retorno de mercadoria ou bem recebido para demonstração ou mostruário*\n\n*Natureza da Operação:* RETORNO DE DEMONSTRAÇÃO\n*CFOP:* 5.913\n*CST* : conforme a nota de origem\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* conforme a nota de origem\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅⁠ICMS conforme Art. 657 do RICMS-MT.\n✅Retorno de bem recebido em demonstração referente a NF nº XX em Data XX\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:17:44-04:00"
     },
     {
-      "id": "demo-2",
-      "title": "Modelo de resposta ao cliente",
-      "category": "Demonstração",
-      "keywords": ["cliente", "modelo", "resposta"],
-      "text": "👋 Olá!\n\n*Assunto:* [informar]\n*Orientação:* [preencher após conferência]\n\n📌 Caso necessário, encaminhe os documentos para análise.\n\n_Exemplo apenas para demonstrar a formatação._",
+      "id": "725630e4-377e-42e5-9c4f-7fdb5003d316",
+      "title": "♻️OPERAÇÃO “VENDA À ORDEM” (TRIANGULAR)",
+      "category": "Outros",
+      "keywords": [
+        "Mae e filha"
+      ],
+      "text": "*♻️OPERAÇÃO “VENDA À ORDEM” (TRIANGULAR)*\nBase legal: Art. 182 do RICMS/2014 – SEFAZ/MT\n\n*📄 1ª Nota Fiscal* – (*⚠️ Não cabe ao produtor*) Adquirente originário (Empresa A) → Adquirente final (Empresa B) \n*Natureza da Operação:* Venda de mercadoria adquirida de terceiros – Venda à Ordem\n*CFOP:* 5.120\n*CST:* conforme tributação aplicável\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n_🔍 Informações Complementares:_\n✅ Operação de Venda à Ordem conforme Art. 182, §3º, I, do RICMS/MT\n✅ ICMS conforme tributação aplicável\n✅ Mercadoria será remetida pelo vendedor remetente: [Nome, CNPJ e IE do remetente]\n\n\n*📄 2ª Nota Fiscal* – Vendedor remetente *👨‍🌾(produtor)* → Adquirente final\n*Natureza da Operação:* Remessa por Conta e Ordem de Terceiros\n*CFOP:* 5.923\n*CST:* 041 – Não tributado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n_🔍 Informações Complementares:_\n✅ Sem destaque de ICMS conforme Art. 182, §3º, II, “a” do RICMS/MT\n✅ Referenciar a NF nº ___ (CFOP 5.120) do adquirente originário\n✅ Informar CND e validade\n\n\n*📄 3ª Nota Fiscal* – Vendedor remetente *👨‍🌾(produtor)* → Adquirente originário\n*Natureza da Operação:* Venda à Ordem – Remessa Simbólica\n*CFOP:* 5.118\n*CST*: 051 – Diferimento\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n_🔍 Informações Complementares:_\n✅ ICMS diferido conforme artigo ( *6* - _Cfe. grão comercializado_ ) Anexo VII, combinado com Artigos 573 a 586 do RICMS/MT \n✅ Referenciar a NF nº ___ (CFOP 5.923) de remessa por conta e ordem\n✅ Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅ SENAR 0,20%\n✅ Cadeia Produtiva:\n✅ Informar CND e validade\n\n*OPERAÇÃO “VENDA À ORDEM” (TRIANGULAR)*\n⚠️Caracteriza-se quando existem dois estabelecimentos vendedores e um destinatário final.\nO vendedor remetente atende à indicação do adquirente originário sobre o local de entrega.\n\n*1️⃣ Empresa A* Vende para Empresa B , _é Quem vende primeiro_ *(Empresa A - Adquirente originário)*\nCFOP 5.120\n*2️⃣ Produtor* entrega para Empresa B e vende para Empresa A *(Produtor - Vendedor remetente)* \nCFOP 5.923 – Produtor *Entrega P/* Empresa B\nCFOP 5.118 – Produtor *Vende P/* Empresa A\n*3️⃣ Empresa B - Adquirente final* –   recebe a mercadoria",
       "favorite": false,
-      "updated_at": ""
+      "updated_at": "2026-10-05T09:17:48-04:00"
     },
     {
-      "id": "demo-3",
-      "title": "Exemplo de mensagem rural",
-      "category": "Demonstração",
-      "keywords": ["gado", "rural", "cfop", "exemplo"],
-      "text": "🐄 *Operação rural — exemplo*\n\n*CFOP:* [a confirmar]\n*CST/CSOSN:* [a confirmar]\n\n⚠️ Conferir a operação, o regime tributário, o Estado e a legislação vigente antes de enviar uma orientação.\n\n_Esta mensagem contém apenas campos demonstrativos._",
+      "id": "5aeee4e2-89c1-4003-9c52-b6de795bb160",
+      "title": "⚠️Pagamento de arrendamento rural com Produto conforme INFORMAÇÃO N°179/2025 - UDCR/UNE...",
+      "category": "Outros",
+      "keywords": [
+        "Arrendamento Correto"
+      ],
+      "text": "*⚠️Pagamento de arrendamento rural com Produto conforme INFORMAÇÃO N°179/2025 - UDCR/UNERC⚠️*\n\n*💰Nota emitida referente a Dação em Pagamento*\n\n📄1º Operação - Arrendatário x Proprietário\n \n*Natureza da operação* Dação em Pagamento\n*CFOP* 5.949\n*CST* 051\n*Produto* Soja em Grão\n*NCM* 12019000\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 7º ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO DECRETO 2.212/2014.\n✅Nota Fiscal em dação em pagamento conforme INFORMAÇÃO N° 179/2025 - UDCR/UNERC\n✅FETHAB:\n✅Cadeia produtiva:\n✅Valor do FETHAB e da Contribuição da Cadeia da Soja retidos pelo adquirente, conforme arts. 12 e 13 do Decreto nº 1.261/2000\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅CND Emitente e CND Destinatário (se tiver)\n\n\n📄2º Operação - Proprietário X Comercializadora\n\n*Natureza da operação* Venda de mercadoria adquirida de terceiros\n*CFOP* 5.102\n*CST* 051\n*Produto* Soja em Grão\n*NCM* 12019000\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 7º ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO DECRETO 2.212/2014.\n✅FETHAB e Cadeia produtiva recolhidos na operação anterior conforme NF.\n✅Sem nova incidência de FETHAB (contribuição monofásica), conforme art. 10, §5º, do Decreto nº 1.261/2000.\n✅Nota Fiscal conforme INFORMAÇÃO N° 179/2025 - UDCR/UNERC\n✅FUNRURAL/SENAR não aplicável – Operação não caracteriza produção própria (art. 25, Lei 8.212/91)\n✅CND Emitente e CND Destinatário (se tiver)",
       "favorite": false,
-      "updated_at": ""
+      "updated_at": "2026-10-05T09:17:52-04:00"
+    },
+    {
+      "id": "3f43b9e7-8c66-42fa-ab77-f5f96c8cc67a",
+      "title": "⚠️Venda de animais \"GADO\" em pé⚠️",
+      "category": "Animais vivos",
+      "keywords": [
+        "Animais"
+      ],
+      "text": "*⚠️Venda de animais \"GADO\" em pé⚠️*\n\nPor gado entende-se o conjunto de animais que foram criados pelo homem para aumentar a sua produção, serviços agrícolas, consumo doméstico, comercial ou industrial, portanto, se o animal for classificado como gado poderá se utilizar do art. 13 do Anexo VII do RICMS/MT.\n- Fonte _Forum Sefaz_\n\n🚨Obs. Informação Genérica, toda a operação precisa ser analisada separadamente\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*NCM / Descrição:* \n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 13 ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO RICMS/2014.\n✅VERIFICAR OUTROS TRIBUTOS\n\n▶️Tipos de gado: \n\n🐂*Gado bovino ou vacum: bovinos (Bos taurus) e algumas espécies de búfalo.*\n0102.29.90 -- Gado bovino\n0102.31.90 – Búfalos (outros)\n\n🐐*Gado caprino ou hircino: cabras*\n0104.20.10 -- Reprodutores de raça pura\n0104.20.90 -- Outros\n\n🐎*Gado cavalar ou equino: cavalos*\n0101.21.00 -- Reprodutores de raça pura \n0101.29.00 -- Outros \n\n🦌*Gado rangífero: renas*\n01.06 Outros animais vivos\n0106.19.00 – Outros\n\n🐇*Gado leporino: coelhos*\n0106.14.00 -- Coelhos e lebres\n\n🐓*Gado de bico: aves domésticas*\n0105.11.10 -- Aves da espécie Gallus domesticus de linhas puras ou híbridas, para reprodução\n0105.11.90 -- Outros\n0105.12.00 -- Peruas e perus\n0105.13.00 -- Patos\n0105.14.00 -- Gansos\n0105.15.00 -- Galinhas-d'angola\n\n🐖*Gado suíno: porcos domésticos*\n0103.91.00 -- De peso inferior a 50 kg \n0103.92.00 -- De peso igual ou superior a 50 kg\n\n🐑*Gado ovino ou arietino: ovelhas*\n0104.10.1 --  Reprodutores de raça pura\n0104.10.11 --  Prenhes ou com cria ao pé\n0104.10.19 --  Outros\n0104.10.90 --  Outros\n\n🫏 *Gado muar: mulas e mulos e Gado asinino: asnos, também denominados jumentos, jegues ou burros*\n0101.30.00 – Asininos 🫏\n0101.90.00 – Outros\n\n*Obs.*\n▶️Jumento = Asno = Jegue (mesmo animal, só nomes diferentes).\n▶️Burro é macho e Mula é a fêmea  = cruzamento Jumento + Égua.\n(Nomes como \"Mulo\", e 'burra\" também são usados)\n▶️Bardoto = cruzamento Cavalo + Jumenta \n(serve para macho e fêmea).",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:17:56-04:00"
+    },
+    {
+      "id": "fe1c5fcf-5364-4008-9d75-ed4228e1b516",
+      "title": "🌱 Venda de Soja – Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "Soja"
+      ],
+      "text": "*🌱 Venda de Soja – Operação Interna (MT)*\n\n*Natureza da Operação* : Venda de produção própria\n*CFOP* : 5.101\n*CST* : 051\n*Produto* : Soja em grão\n*NCM* : 1201.90.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅ ICMS diferido conforme Art. 7º do Anexo VII, combinado com Arts. 573 a 586 do Decreto 2.212/2014\n✅ Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅ Senar 0,20%\n✅ Fethab: _______\n✅ Cadeia Produtiva: _______\n✅ Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:01-04:00"
+    },
+    {
+      "id": "92f53a54-621a-4170-af65-90d9c644c753",
+      "title": "🌱🐛VENDA DE INSUMOS AGRICOLAS",
+      "category": "Outros",
+      "keywords": [
+        "Insumos"
+      ],
+      "text": "🌱🐛 *VENDA DE INSUMOS AGRICOLAS*\n🚨*NECESSITA CADASTRO NO INDEA* consultar o órgão competente\n\n*Natureza da Operação:* Venda de sobra de plantio\n*CFOP:* 5.102\n*CST:* 040\n*Produto:*  Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200038\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ ICMS ISENTO CONFORME ARTIGO 115 ANEXO IV DO RICMS-MT\n✅ Operação referente a sobra de insumos - NF XXX \n✅ PREENCHER  origem: ___; RENASEM: ___; lote: ___; certificado/termo: ___; embalagem original/lacrada: ___; demais registros INDEA/MAPA: ___.\n✅ Venda eventual Conforme INFORMAÇÃO Nº 002/2019 – CRDI/SUNOR\n✅ Informar CND e validade \n\n🚨*Observações:*🚨\n⚠️ *Sefaz* A venda de sobras de insumos pelo produtor rural pode ser feita de forma eventual. Caso se torne prática habitual, será necessária inscrição estadual para comércio, já que a atividade principal é a produção e venda da própria safra.\n⚠️ *INDEA* Antes da venda de insumos, consultar o órgão competente. Podem ser exigidos origem, registros, certificados, RENASEM, lote, embalagem original, identificação e regularidade para comercialização.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:04-04:00"
+    },
+    {
+      "id": "446cb62b-fc5c-443a-8889-3b33dd151fd7",
+      "title": "🌽Venda de MILHO  – Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🌽Venda de MILHO  – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* MILHO\n*NCM:* 1005.90.10\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ ICMS DIFERIDO CONFORME ARTIGO 6º ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO DECRETO 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:14-04:00"
+    },
+    {
+      "id": "4a3aa67a-2221-483a-8eb5-31ea2d7cafcf",
+      "title": "🌽Venda de Milho– Operação Interestadual",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🌽Venda de Milho– Operação Interestadual*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 6.101\n*CST:* 020\n*Produto:* Milho em grão\n*NCM:* 1005.90.10\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅BASE DE CÁLCULO DO ICMS REDUZIDO A 70% CONFORME ARTIGO 31 ANEXO V PARAGRAFO II DO RICMS/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Fethab: \n✅Informar CND e validade\n✅Motorista e CPF\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 70%: (R$ 1.000,00 × 70%) = R$ 700,00\n*•\tBase efetiva do ICMS: R$ 700,00*\n*•\tAlíquota interestadual: 12%*\n*•\tValor do ICMS destacado: R$ 84,00*\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *12%* \n⚠️Percentual de redução *A:* *70%* _(ou Redução *De* 30%)_",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:20-04:00"
+    },
+    {
+      "id": "55fca750-342a-4e8e-9f4f-baa5cd0f801d",
+      "title": "🌾Venda de Arroz – Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🌾Venda de Arroz – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* Arroz\n*NCM:* 10061092\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS diferido conforme Art. 3º do Anexo VII, combinado com os Arts. 573 a 586 do Decreto 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Fethab: \n✅Cadeia Produtiva:\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:27-04:00"
+    },
+    {
+      "id": "1478f255-1f4a-49b3-b726-d0936af05517",
+      "title": "🍂 Venda de Feno e Silagem",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "🍂 *Venda de Feno e Silagem*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* (Cfe. Produto) Feno // silagem\n*NCM:* 1214.90.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200038\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS ISENTO CONFORME ARTIGO 115 ANEXO IV DO RICMS-MT\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:35-04:00"
+    },
+    {
+      "id": "c23d87db-042f-4b1c-936c-bfd7ab50cdcc",
+      "title": "🎋Venda de Cana de Açúcar – Operação Interna (MT)",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🎋Venda de Cana de Açúcar – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* Cana de açúcar\n*NCM:* 1212.93.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ ICMS DIFERIDO CONFORME ARTIGO 9º ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO DECRETO 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:42-04:00"
+    },
+    {
+      "id": "78d6d8ad-c732-4373-a457-268b406defbd",
+      "title": "🏗️Venda de Maquinas e Equipamentos Gerais -  INFERIOR a um Ano de Uso (🚨Interna)",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🏗️Venda de Maquinas e Equipamentos Gerais -  INFERIOR a um Ano de Uso* (🚨Interna)\n\n*Natureza da Operação:* venda de bem do ativo imobilizado\n*CFOP:* 5.551\n*CST* : 020\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Base de cálculo do ICMS reduzida para 40%, conforme disposto no Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT\n✅Informar CND e validade\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A 40%* _(ou Redução *De* 60%)_\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 40%: (R$ 1.000,00 × 40%) = R$ 400,00\n*•\tBase efetiva do ICMS: R$ 400,00*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 68,00*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:49-04:00"
+    },
+    {
+      "id": "0d62774d-d30f-4d68-b4c5-301b41be6b48",
+      "title": "🏗️Venda de Maquinas e Equipamentos Gerais -  SUPERIOR a um Ano de Uso (🚨Interna)",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🏗️Venda de Maquinas e Equipamentos Gerais -  SUPERIOR a um Ano de Uso* (🚨Interna)\n\n*Natureza da Operação:* venda de bem do ativo imobilizado\n*CFOP:* 5.551\n*CST* : 020\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Base de cálculo do ICMS reduzida a 20%, conforme disposto no Art. 54, § 5º, inciso I, do Anexo V do RICMS/MT\n✅Informar CND e validade\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A 20%* _(ou Redução *De* 80%)_\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 20%: (R$ 1.000,00 × 20%) = R$ 200,00\n*•\tBase efetiva do ICMS: R$ 200,00*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 34,00*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:18:57-04:00"
+    },
+    {
+      "id": "081b0c47-778d-4f4e-96ad-c9ca773259b3",
+      "title": "🏚️ VENDA DE SUCATA",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "🏚️ *VENDA DE SUCATA*\n\n*Natureza da Operação:* Venda de Sucata\n*CFOP:* 5.102\n*CST:* 051\n*Produto:*  Sucata - partes de XXX\n*NCM:* [ajustar conforme a sucata – ex.: 7204 p/ ferro/aço]\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ ICMS DIFERIDO CONFORME ARTIGO 27, ANEXO VII DO RICMS/MT\n✅ Informar CND e validade \n\n\n⚠️ICMS: Verificar interrupção do diferimento – Art. 580 do RICMS/MT (quando aplicável)\n\n⚠️Observação – *Sucata x Produto usado* (MT)\n*▶️ Sucata:* coisa que não serve mais para a função original (danificada/inservível).\nEx.: caco de telha, pedaço de caixa-d’água, parte de porta quebrada.\n*▶️Produto usado:* ainda funciona para a mesma finalidade. Não é sucata.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:05-04:00"
+    },
+    {
+      "id": "ff1880bd-d166-4f51-a717-81112ec7721a",
+      "title": "🏬 Regime Diferenciado Cooperativa",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🏬 Regime Diferenciado Cooperativa*\nSobre vendas para cooperativas como elas podem ter regime diferenciado e parametrizações próprias para IBS e CBS, nossa orientação é confirmar com a cooperativa se existe algum comunicado padrão de CST e cClassTrib para os cooperados, geralmente eles utilizam: \n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200020\n\nSe não houver orientação específica, pode seguir o padrão que enviamos geral, destacando IBS e CBS nos campos próprios da nota.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:10-04:00"
+    },
+    {
+      "id": "d6c4abb7-26e5-4404-8ab0-98fe427cc66f",
+      "title": "🏭 Venda de Resíduos de Algodão",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "🏭 *Venda de Resíduos de Algodão*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 040\n*Produto:* Farelo de Algodão / Torta de Algodão\n*NCM:* 2306.10.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS ISENTO CONFORME ARTIGO 115 ANEXO IV DO RICMS-MT\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade\n\n⚠️ O uso da isenção referida no inciso VI  é apenas se o mesmo for *\"destinados à alimentação animal ou ao emprego na fabricação de ração animal;\"*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:21-04:00"
+    },
+    {
+      "id": "821c21ea-0d6d-4d95-923d-901bfed80c8b",
+      "title": "🏭Nota de Remessa para deposito",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🏭Nota de Remessa para deposito* \n\n*Natureza:*  Remessa de mercadoria para deposito\n*CFOP:* 5.905\n*CST:* 041\n*Produto:* Cfe. produto\n*NCM:* Cfe. produto\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDENCIA CONFORME ARTIGO 5º INCISO XI DO RICMS/2014\n✅INFORMAR CND E VALIDADE",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:28-04:00"
+    },
+    {
+      "id": "7c6c56ce-b8b4-44d4-b54c-680ed2edaf7b",
+      "title": "🏭Nota de Remessa para industrialização",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🏭Nota de Remessa para industrialização* \n\n*Natureza:*  Remessa de mercadoria para industrialização\n*CFOP:* 5.901\n*CST:* 051\n*Produto:* Cfe. produto\n*NCM:* Cfe. produto\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ART. 29 A 35 , ANEXO VII DO DECRETO 2.212/2.014.  \n✅INFORMAR CND E VALIDADE",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:33-04:00"
+    },
+    {
+      "id": "af083673-3e96-4c5a-bee0-d3b18399c7c9",
+      "title": "🏭Nota de Remessa Simbólica para deposito",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🏭Nota de Remessa Simbólica para deposito* \n\n*Natureza:*  Remessa Simbólica de mercadoria para deposito\n*CFOP:* 5.934\n*CST:* 041\n*Produto:* Cfe. produto\n*NCM:* Cfe. produto\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDENCIA CONFORME ARTIGO 5º INCISO XI DO RICMS/2014\n✅INFORMAR CND E VALIDADE",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:40-04:00"
+    },
+    {
+      "id": "15602dc7-8336-445b-b4e2-df6468679997",
+      "title": "🐂 Venda de GADO Para Cria e Recria – Operação Interna (MT)",
+      "category": "Animais vivos",
+      "keywords": [
+        "gado"
+      ],
+      "text": "🐂 *Venda de GADO Para Cria e Recria – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* Bovino, Macho, *_Idade_* (Ex. 0 a 12 meses...)\n*NCM:* 0102.29.90\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 13 ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO RICMS/2014.\n✅NÃO INCIDENCIA DE FUNRURAL CONF. § 12, ART. 25 - LEI 8.212/1991\n✅SENAR 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-09-28T08:51:19-04:00"
+    },
+    {
+      "id": "488ccd3d-1003-4075-b73b-a8ab520f413d",
+      "title": "🐂 Venda de GADO – Operação Interna (MT)",
+      "category": "Animais vivos",
+      "keywords": [
+        "gado"
+      ],
+      "text": "🐂 *Venda de GADO – Operação Interna (MT)*\n🚨Destinatário *Não contribuinte* (Igreja, Institutos e etc.) 🚨\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 020\n*Produto:* Bovino, Macho, *_Idade_* (Ex. 0 a 12 meses...)\n*NCM:* 0102.29.90\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅BASE DE CALCULO DO ICMS REDUZIDO A 41,17% CFE. ART. 1° DO ANEXO V DO RICMS/MT.\n✅NÃO INCIDENCIA DE FUNRURAL CONF. § 12, ART. 25 - LEI 8.212/1991\n✅SENAR 0,20%\n✅Informar CND e validade\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 41,17%: (R$ 1.000,00 × 41,17%) = R$411,7\n*•\tBase efetiva do ICMS: R$ 411,70*\n*•\tAlíquota interna: 17%*\n*•\tValor do ICMS destacado: R$ 69,98*\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A:* *41,17%* _(ou Redução *De* 58,83%)_\n\n*📌Obs. Comercialização de Gado*\n\n▶️Não incide *Funrural* sobre produção destinada a plantio, reflorestamento, reprodução pecuária/granjeira ou uso científico, quando vendida pelo próprio produtor para uso direto nessas finalidades. SENAR devido. (§12, Art. 25, Lei 8.212/1991)\n▶️A contribuição ao *FETHAB* , prevista na alínea b do §1º do Art. 10 do RICMS/MT, incide somente nas operações de gado para abate , E Conforme Art. 27-H do RICMS/MT, para gado de cria, recria e engorda, a incidência ocorre apenas nas operações interestaduais ou equiparadas à exportação.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:19:51-04:00"
+    },
+    {
+      "id": "c0640154-e087-4917-b947-559818d90faf",
+      "title": "🐔Venda de Cama de Frango",
+      "category": "Outros",
+      "keywords": [
+        "Cama insumos"
+      ],
+      "text": "🐔*Venda de Cama de Frango*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* Cama de frango\n*NCM:* 3101.00.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200038\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS ISENTO CONFORME ARTIGO 115 ANEXO IV DO RICMS-MT\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-09-28T08:51:49-04:00"
+    },
+    {
+      "id": "157f4e76-ca34-4129-b43e-c58b2cd84ec8",
+      "title": "🐔🐷 SISTEMA INTEGRADO – AVICULTURA E SUINOCULTURA",
+      "category": "Animais vivos",
+      "keywords": [
+        "Porco",
+        "Galinha"
+      ],
+      "text": "*🐔🐷 SISTEMA INTEGRADO – AVICULTURA E SUINOCULTURA* Operação Interna – MT\nBase legal: Art. 15 do Anexo VII e Arts. 825 a 843 do RICMS/MT – Decreto nº 2.212/2014.\n\n➡️ 1️⃣ *RECEBIMENTO DE ANIMAIS PELO PRODUTOR*\nO integrador/parceiro envia os animais para criação, recriação, produção ou engorda.\nNota emitida pelo Integrador/Parceiro:\nCFOP: 5.451 – Remessa de animal – Sistema de Integração e Parceria Rural\nCST: 051 – Diferimento\n\n👨‍🌾 Produtor deve registrar a entrada:\nCFOP: 1.451 – Entrada de animal – Sistema de Integração e Parceria Rural\n________________________________________\n\n*➡️ 2️⃣ RECEBIMENTO DE INSUMOS PELO PRODUTOR*\nO integrador/parceiro envia ração, medicamentos, insumos ou outras mercadorias destinadas à produção integrada.\nNota emitida pelo Integrador/Parceiro:\nCFOP: 5.452 – Remessa de insumo – Sistema de Integração e Parceria Rural\nCST: 051 – Diferimento\n\n👨‍🌾 Produtor deve registrar a entrada:\nCFOP: 1.452 – Entrada de insumo – Sistema de Integração e Parceria Rural\n________________________________________\n\n*🚨 QUANDO HOUVER RETORNO PELO PRODUTOR*\n\n📝👨‍🌾*Notas emitdas pelo PRODUTOR*👇\n\n*🔄 Retorno dos animais ou da produção*\n\n*Natureza da Operação* : Retorno de animal ou da produção – Sistema de Integração e Parceria Rural\n*CFOP:* 5.453\n*CST:* 051 – Diferimento\n\n*🔍 Informações Complementares:*\n✅ Sistema Integrado conforme Arts. 825 a 843 do RICMS/MT\n✅ ICMS diferido conforme Art. 15 do Anexo VII do RICMS/MT\n✅ Informar CND e validade\n________________________________________\n\n*🔄 Retorno de insumos NÃO utilizados*\n👉Utilizar quando houver sobra de ração, medicamentos ou demais insumos recebidos e não utilizados na produção.\n\n*Natureza da Operação*: Retorno de insumos não utilizados – Sistema de Integração e Parceria Rural\n*CFOP:* 5.455\n*CST:* 051 – Diferimento\n\n*🔍 Informações Complementares:*\n✅ Sistema Integrado conforme Arts. 825 a 843 do RICMS/MT\n✅ ICMS diferido conforme Art. 15 do Anexo VII do RICMS/MT\n✅ Informar CND e validade\n________________________________________\n\n*🔄 Retorno SIMBÓLICO de animal ou da produção*\n👉Utilizar quando for necessário efetuar o retorno de forma simbólica, sem a correspondente movimentação física naquele momento, conforme o fluxo da integração.\n\n*Natureza da Operação:* Retorno simbólico de animal ou da produção\n*CFOP:* 5.454\n*CST:* 051 – Diferimento\n\n*🔍 Informações Complementares:*\n✅ Sistema Integrado conforme Arts. 825 a 843 do RICMS/MT\n✅ ICMS diferido conforme Art. 15 do Anexo VII do RICMS/MT\n✅ Informar CND e validade\n________________________________________\n\n*💰 REMUNERAÇÃO DO PRODUTOR*\n👉Quando ocorrer o pagamento/remuneração correspondente à parcela da produção do produtor no sistema integrado:\n\n*Natureza da Operação*: Remuneração do Produtor – Sistema de Integração e Parceria Rural\n*CFOP:* 5.456\n*CST:* 051 – Diferimento\n\n*🔍 Informações Complementares:*\n✅ Sistema Integrado conforme Arts. 825 a 843 do RICMS/MT\n✅ ICMS diferido conforme Art. 15 do Anexo VII do RICMS/MT\n✅ Informar CND e validade\n________________________________________\n*📌 RESUMO DO PRODUTOR*\n🐷🐔 Recebeu animais → Entrada CFOP 1.451\n🌾💊 Recebeu insumos → Entrada CFOP 1.452\n\n🐷🐔 Retornou animais/produção → Saída CFOP 5.453\n🌾 Retornou insumos que sobraram → Saída CFOP 5.455\n🔄 Retorno simbólico → Saída CFOP 5.454\n\n💰 Remuneração do produtor → Saída CFOP 5.456\n\n*Todas as saídas abrangidas pelo diferimento: CST 051.*\n\n▶️ *Outros Tributos:*\n👉IPI:  SEM PREENCHIMENTO\n👉PIS:  08- SEM INCIDENCIA\n👉COFINS:  08- SEM INCIDENCIA\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999",
+      "favorite": false,
+      "updated_at": "2026-10-05T14:02:31-04:00"
+    },
+    {
+      "id": "5673913b-82ad-4bdb-9386-cdf92bb148e5",
+      "title": "🐟 Venda de Peixe – Operação Interestadual",
+      "category": "Animais vivos",
+      "keywords": [
+        "Peixes"
+      ],
+      "text": "*🐟 Venda de Peixe – Operação Interestadual*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 6.101\n*CST:* 040\n*Produto:* Peixe Tambatinga, NCM: 0303.89.65\n*Produto:* Peixe Pintado, NCM: 0302.89.33\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS isento conforme Art.6 anexo IV do decreto 2.212/2014. \n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅FUS:______\n✅Senar 0,20%\n✅Informar CND e validade\n\n*🧮 Demonstrativo de Cálculo do FUS*\n•\tValor total da Nota: R$ 1.000,00\n*•\tAlíquota interestadual: 12%*\n•\tR$ 1.000,00 X 12% = R$ 120\n*•\tBase de calculo FUS* R$ 120\n*•\tValor para contribuição do FUS 20%*\n•\tR$ 120,00 X 20% = R$ 24\n*•\tValor FUS a recolher R$ 24,00*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:03-04:00"
+    },
+    {
+      "id": "f6670d5a-ab66-4692-93df-d2b6e453c70a",
+      "title": "🐟Venda de Peixe – Operação Interna (MT)",
+      "category": "Animais vivos",
+      "keywords": [
+        "Peixe"
+      ],
+      "text": "🐟*Venda de Peixe – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 040\n*Produto:* Peixe Tambatinga, NCM: 0303.89.65\n*Produto:* Peixe Pintado, NCM: 0302.89.33\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS isento conforme Art.5 anexo IV do decreto 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-09-28T08:52:32-04:00"
+    },
+    {
+      "id": "01dff204-ad5b-4033-81b5-e82f5efdaff3",
+      "title": "👀 Remessa de mercadoria ou bem para demonstração",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*👀 Remessa de mercadoria ou bem para demonstração*\n\n*Natureza da Operação:* REMESSA EM DEMONSTRAÇÃO\n*CFOP:* 5.912\n*CST* : 041\n*Produto:* Descreva conforme produto\n*NCM:* Descreva conforme produto\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅⁠Sem Destaque de ICMS conforme Art. 681 DO RICMS/2014.\n✅Mercadoria remetida para demonstração\n✅Informar CND e validade\n\n⚠️Art. 680 *Considera-se demonstração* a operação pela qual o contribuinte remete mercadorias a terceiros, em quantidade necessária para se conhecer o produto, *desde que retornem ao estabelecimento de origem em 60 (sessenta) dias* , contados da data da emissão da respectiva Nota Fiscal.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:13-04:00"
+    },
+    {
+      "id": "94fa8999-95ae-4d03-a913-6bde8b07841f",
+      "title": "👉Remessa de produção do estabelecimento, com fim específico de exportação.",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*👉Remessa de produção do estabelecimento, com fim específico de exportação.*\n\n*🌱 Venda de Soja – Operação Interna (MT)*\n*Natureza da Operação* : Venda soja  para exportação\n*CFOP* : 5.501\n*CST* : 041\n*Produto* : Soja em grão\n*NCM* : 1201.90.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 550\n*CclassTriub.:* 550001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅Remessa de produção do estabelecimento, com fim específico de exportação.\n✅REGIME DE EXPORTAÇÃO - CREDENCIAMENTO EM REGIME ESPECIAL, NOS TERMOS DO DECRETO 1.262/2017.\n✅NÃO INCIDÊNCIA DE ICMS CONF ART-5º, INCISO – II § 3º e 4º DO RICMS/MT.\n✅ Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅ Senar 0,20%\n✅ Fethab: _______\n✅ Cadeia Produtiva: _______\n✅ Informar CND e validade ‎<Mensagem editada>",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:21-04:00"
+    },
+    {
+      "id": "d77b486d-1faa-4c0e-9c9b-7f051284ffdb",
+      "title": "👨‍🌾Venda de Grãos Diversos -  Com Fethab",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "👨‍🌾*Venda de Grãos Diversos -  Com Fethab*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*Produto/NCM:*\nLentilha - 0713.40.90 *(Art. 19)*\nErvilha - 0708.10.00 e 0713.10.90 *(Art. 19)*\nAmendoim - 12.02.41.00 *(Art. 4)*\nFava - 0713.50.90 *(Art. 19)*\nMilho pipoca/canjica - 1005.90.90 *(Art. 19)*\nMamona - 1207.30.90 *(Art. 4)*\nGirassol - 1206.00.90 *(Art. 6)*\nSorgo - 1007.90.00 *(Art. 4)*\nGergelim - 1207.40.90 *(Art. 19)*\nMilheto - 1008.29.10 *(Art. 4)*\nPainço - 1008.21.90 *(Art. 19)*\n\n⚠️Observar o artigo do produto.⚠️\n\n🔎 *Informações Complementares:*\n✅ICMS Diferido conforme Art. *(____)*  do Anexo VII, combinado com os Arts. 573 a 586 do Decreto 2.212/2014.\n✅Fethab: \n✅Cadeia Produtiva:\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:28-04:00"
+    },
+    {
+      "id": "0c93718b-371d-44ec-bbea-22b20fe4c0be",
+      "title": "👨‍🌾Venda de Grãos Diversos - Sem Fethab",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "👨‍🌾*Venda de Grãos Diversos - Sem Fethab*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*Produto/NCM:*\nChia em grão - 1204.00.90\nNíger em grão - 1211.90.90\nLinhaça em grão - 1204.00.90\nPainço em grão - 1008.21.90\nQuinoa em grão - 1008.50.90\n\n🔎 *Informações Complementares:*\n✅ICMS Diferido conforme Art. 19 do Anexo VII, combinado com os Arts. 573 a 586 do Decreto 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:32-04:00"
+    },
+    {
+      "id": "dff65a1e-49ee-4b02-88a7-cf6beda6bf8a",
+      "title": "👩‍🌾 FUNRURAL – ORIENTAÇÕES GERAIS",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "👩‍🌾 *FUNRURAL – ORIENTAÇÕES GERAIS*\n\n👉 *Se for optante pela Folha de Salários:*\nMencionar na nota: \"OPÇÃO PELA FOLHA DE SALÁRIOS – LEI 13.606/2018\"\n*Atenção:* Mesmo optando pela folha, o SENAR (0,20%) continua sendo calculado sobre a comercialização, portanto, deve ser destacado na nota o valor correspondente ao SENAR 0,20%.\n\n👉 *Se não for optante* (calcular a contribuição completa – *1,63%* )\n* FUNRURAL: 1,32%\n* RAT: 0,11%\n* SENAR: 0,20%\n*Atenção* Fica a seu critério demonstrar os percentuais separadamente ou informar diretamente como: \"FUNRURAL 1,63%\"",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:39-04:00"
+    },
+    {
+      "id": "5921a73d-2402-47e4-a546-ace79b6deab6",
+      "title": "💰Nota emitida referente a Dação em Pagamento - Informação defasada 👈",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*💰Nota emitida referente a Dação em Pagamento* _- Informação defasada_ 👈\n\n*Natureza da operação* \" Dação em Pagamento \"\n*CFOP* 5.949\n*CST* 051\n*Produto* Soja em Grão\n*NCM* 12019000\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 7º ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO DECRETO 2.212/2014.\n✅ Nota fiscal emitida referente Remessa de grãos ao arrendador como pagamento da obrigação decorrente de contrato de arrendamento rural.\n✅Nota Fiscal em dação em pagamento conforme  INFORMAÇÃO N° 114/2022 - CDCR/SUCOR\n✅CND Emitente e CND Destinatário (se tiver)\n✅Fethab e Cadeia produtiva pagos na operação posterior.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:56-04:00"
+    },
+    {
+      "id": "2e6ecd88-6658-4964-90bf-a8c1fc5bddd3",
+      "title": "📄 Operação Simples faturamento (Nota Mãe e Nota Filha)",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "📄 *Operação Simples faturamento (Nota Mãe e Nota Filha)*\n\n👉*1º OPERAÇÃO*\n*NATUREZA:* SIMPLES FATURAMENTO DECORRENTE DE VENDA PARA ENTREGA FUTURA\n*Produto:* Definir conforme o tipo de item (soja, milho ...)\n*NCM:* Definir conforme o tipo de item\n*CFOP* 5.922\n*CST* 041\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅SEM DESTAQUE DE ICMS CONFORME ART. 182 DO RICMS/MT 2014\n✅SENAR 0,20%\n✅INFORMAR CND E VALIDADE\n\n\n👉*2º OPERAÇÃO*\n*NATUREZA:* VENDA DE PRODUÇÃO DE ENTREGA FUTURA.\n*Produto:* Definir conforme o tipo de item (soja, milho ...)\n*NCM:* Definir conforme o tipo de item\n*CFOP* 5.116\n*CST* 051\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO ___ ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO RICMS/MT 2014\n✅Remessa de Entrega Futura referente nota XXXX (§ 2°, Art. 182 das DP do RICMS-MT)\n✅Informar Tributos pertinente ao produto Vendido.\n✅INFORMAR CND E VALIDADE",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:20:52-04:00"
+    },
+    {
+      "id": "c98042b9-d2f2-4c10-bf03-d4504d0d3017",
+      "title": "📌 (ENTRADA PROPRIA) Erro na NF-e, e perdeu o prazo pra cancelar? Posso fazer entrada pr...",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 (ENTRADA PROPRIA) Erro na NF-e, e perdeu o prazo pra cancelar? Posso fazer entrada própria?*\n\nAntes de tudo, vamos lembrar os prazos de cancelamento:\n\n✅ Cancelamento normal: até 8h após a autorização, desde que a mercadoria não tenha circulado.\n✅ Cancelamento extemporâneo: pode ser solicitado até o 5º dia útil do mês seguinte.\n\nSe não for mais possível cancelar, aí sim entra a entrada própria, mas só em casos bem específicos.\n\n*Quando a entrada própria é permitida:*\n\n1️⃣ A mercadoria foi enviada, porem a NF-e esta errada;\n2️⃣ O destinatário recusou formalmente o recebimento;\n3️⃣ A mercadoria retornou com a mesma nota, com o motivo da recusa anotado no verso.\n\n➡️ Nessas condições, a empresa pode emitir uma NF de entrada própria, conforme os artigos 201 e 660 do RICMS/MT.\n\n*🚫 Atenção:*\nSe perdeu o prazo, fale com a gente antes de agir, assim garantimos a solução mais segura.\nNão use entrada própria só pra \"fechar a conta\" quando não houve recusa real nem devolução física. Isso pode trazer problemas com o fisco.\nSempre que possível, priorize o cancelamento.\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:03-04:00"
+    },
+    {
+      "id": "48107fbe-9ba3-4356-94e7-042bbf5cd476",
+      "title": "📌 Carta de Correção Eletrônica (CC-e)",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "📌 *Carta de Correção Eletrônica (CC-e)*\nA CC-e é o meio legal para corrigir erros permitidos em notas fiscais já autorizadas, como NF-e (Nota Fiscal Eletrônica).\n\n*✅ O que pode ser corrigido?*\nConforme o Art. 281 do RICMS/MT, a CC-e pode ser utilizada *desde que o erro não altere* :\n\n*💰 Base de cálculo, alíquota, valor da prestação, quantidade etc.*\n📇 Dados cadastrais que impliquem mudança de emitente, tomador, remetente ou destinatário\n🗓️Data de emissão ou de saída\n\n*📆Tem Prazo para Recusar?*\n- Art. 38 Os eventos “Confirmação da Operação”, “Desconhecimento da Operação” ou “Operação não Realizada” poderão ser registrados em até 180 (cento e oitenta) dias, contados a partir da data de autorização da NF-e.\n\n*E se for necessário mais de uma correção?*\nVocê pode emitir mais de uma CC-e para a mesma NF-e, mas a última deve consolidar todas as correções anteriores.\n\n*✋ Antes de tudo, vale reforçar uma regra essencial:*\nSe a nota fiscal foi emitida com erro, a primeira e mais segura opção sempre será o cancelamento.\nEvite ajustes arriscados ou improvisos, cancele sempre que possível.\n👉Verifique a possibilidade de *RETIFICAÇÃO DE NF-e – AJUSTE SINIEF 15/2025*  através da devolução simbólica possível em até 168 horas (7 dias)\n\n*❓ FAQ – Dúvidas Frequentes sobre CC-e*\n\n** Posso alterar o CST?*\n✅ Sim, desde que a alteração não modifique o valor do imposto. Exemplo: mudar de 040 (isento) para 041 (não tributado) é permitido.\n** Posso corrigir a Inscrição Estadual do destinatário?*\n✅ Sim, desde que todo o resto como CNPJ/CPF, razão social e endereço estejam corretos. Somente a IE incorreta não descaracteriza o destinatário.\n** Posso ajustar os dados do transporte (placa, frete etc.)?*\n✅ Sim, desde que não alterem o valor da prestação ou os cálculos tributários.\n** Posso corrigir o endereço, se o destinatário continuar o mesmo?*\n✅ Sim, correções simples como número, complemento ou bairro são aceitas via CC-e. Só não pode descaracterizar o destinatário.\n** Posso mudar a data de emissão ou de saída?*\n❌ Não. Datas não podem ser ajustadas por CC-e.\n** Posso corrigir valores da mercadoria ou da prestação?*\n❌ Não. Alterações que envolvam valores, base de cálculo ou imposto não são permitidas na CC-e.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:13-04:00"
+    },
+    {
+      "id": "49422b28-1ed2-4ce9-9eb4-de3a02ba3742",
+      "title": "📌 CFOP em Devolução – Atenção para operações com ST",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 CFOP em Devolução – Atenção para operações com ST*\n\nNa entrada, o destinatário/adquirente deve classificar o CFOP conforme a destinação da mercadoria no seu estabelecimento, respeitando o regime tributário da operação.\n\nNas operações normais, geralmente utilizadas pelo produtor rural:\n\n• *Produção rural* : Entrada 1.101 / Devolução *5.201*\n• *Uso e consumo* : Entrada 1.556 / Devolução *5.556*\n• *Imobilizado*: Entrada 1.551 / Devolução *5.553*\n\n⚠️ Porém, se a mercadoria estiver sujeita à *Substituição Tributária – ST* , devem ser observados os CFOPs específicos:\n\n• *Produção rural*: Entrada 1.401 / Devolução *5.410*\n• *Uso e consumo* : Entrada 1.407 / Devolução *5.413*\n• *Imobilizado* : Entrada 1.406 / Devolução *5.412*\n\n📌 Observação prática:\nQuando a mercadoria estiver sujeita à ST, o correto é verificar o CFOP específico da operação antes da emissão.\n\nNa prática, pode ocorrer de o destinatário/fornecedor solicitar ou aceitar CFOP diferente por questão de parametrização do sistema. Nesses casos, recomendamos alinhar previamente com a outra parte antes da emissão da NF-e, pois a responsabilidade pela informação fiscal permanece de quem emite o documento.\n\n📚 Base legal:\nINFORMAÇÃO Nº 100/2026 - UDCR/UNERC MT ‎<Mensagem editada>",
+      "favorite": false,
+      "updated_at": "2026-09-24T13:05:26-04:00"
+    },
+    {
+      "id": "cc328757-51c5-4ec3-ab1a-e2a156cbd457",
+      "title": "📌 Conversão de CSOSN para CST (em Devoluções)",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 Conversão de CSOSN para CST (em Devoluções)*\n\n*⚠️ Atenção – Operações com Simples Nacional*\n\nQuando a nota de origem foi emitida por empresa optante pelo Simples Nacional, não haverá CST, mas sim *CSOSN* (Código de Situação da Operação no Simples Nacional). Nesses casos, não é possível repetir o código, pois o CSOSN não existe para contribuintes fora do Simples.\n\n➡️ Nesses casos, na emissão da nota de devolução, deverá ser utilizado o CST *equivalente* ao CSOSN da nota de origem, a conversão deve ser feita com base na tributação da operação original, buscando o CST correspondente\n\n*🧾 Exemplo prático*\n*CSOSN* (nota de origem – Simples Nacional):\nOrigem: 0 – Nacional\nCSOSN: 103 – Isenção do ICMS no Simples Nacional para faixa de receita bruta\n\n*CST* (nota de devolução):\nOrigem: 0 – Nacional\nCST: 40 – Isenta\n\n📚 Base legal:\nINFORMAÇÃO Nº 100/2026 - UDCR/UNERC MT",
+      "favorite": false,
+      "updated_at": "2026-09-24T13:05:22-04:00"
+    },
+    {
+      "id": "714e0d70-0a92-47c3-b051-f43b843aec8e",
+      "title": "📌 IBS e CBS – Base de Cálculo na Devolução",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 IBS e CBS – Base de Cálculo na Devolução*\nNa NF-e de devolução, a base de cálculo do IBS e da CBS deve ser exatamente a mesma da nota fiscal de origem.\n\n*📚 Base legal:* Art. 12 §7º e Art. 17 da Lei Complementar nº 214/2025\n\n⚠️ Os tributos destacados são excluídos da base do IBS/CBS conforme regra exposta, então Há situações em que a base do IBS/CBS não corresponde ao valor total da NF-e, Confira se o sistema emissor está mantendo a mesma base da NF original, sem alterações _automáticas._\n\n*📌 Fórmula da Base (NT da NF-e):*\n(+ Produto + Frete + Seguro + Outros)\n(– Desconto – PIS – COFINS – ICMS – FCP – ISS)\n\n*📚 Base legal:* Nota Técnica 2025.002-RTC – versão 1.34 – pág. 30 (Grupo UB – Regra UB05-10)",
+      "favorite": false,
+      "updated_at": "2026-09-24T13:05:18-04:00"
+    },
+    {
+      "id": "e803b031-40b5-4352-b503-3cb9391be72f",
+      "title": "📌 ICMS-ST em Devolução (MT)",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 ICMS-ST em Devolução (MT)*\n⚠️ Na NF-e de devolução de mercadoria, cuidar com ICMS-ST destacado na nota de origem, \n\n*▶️Situação 1:*  Quando o ICMS-ST da nota de origem *compõe o total da NF-e:*\n\n✔️ Não destacar novamente o ICMS-ST nos campos próprios;\n✔️ Informar o valor em “Outras Despesas Acessórias” (para manter o mesmo total);\n✔️ Mencionar em “Informações Complementares” o valor do ICMS-ST e a NF-e de origem.\n\n*▶️ Situação 2:* Quando o ICMS-ST da nota de origem *não compõe o total da NF-e:*\n\n✔️ Não destacar novamente o ICMS-ST;\n✔️ Informar apenas em “Informações Complementares”, espelhando a estrutura da nota original;\n✔️ Não lançar em “Outras Despesas”, pois alteraria o total da operação.\n\n📚 Base legal:\nINFORMAÇÃO Nº 240/2024 - UDCR/UNERC\nINFORMAÇÃO Nº 046/2024 - UDCR/UNERC",
+      "favorite": false,
+      "updated_at": "2026-09-24T13:05:14-04:00"
+    },
+    {
+      "id": "ca897add-7153-4a35-99d0-b77e6fd9a012",
+      "title": "📌 Nota de Devolução",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 Nota de Devolução*\n\nDeverá conter *TODOS* os dados da nota original: \n\n▶️Produto, ▶️NCM, ▶️Valor, ▶️CST, ▶️Tributos, ▶️ *Códigos* ,  ▶️ *Porcentagens de redução*\n\n⚠️ *Atenção ao Tributos*\n\n*✅ ICMS –* Se teve redução de base de calculo, aplique a mesma porcentagem vista no portal (mesma base, alíquota e CST).\n*✅ IPI –*  Informe o valor no campo *(IPI Devolvido)*, Evidencie os valores nas observações complementares.\n*✅ PIS/COFINS –* Não há obrigação de destaque de PIS/COFINS na devolução (PR-PF). ⚠️ _Se informado, é apenas para ajuste da *base do IBS/CBS*_ .\n*✅ ICMS ST  –*  Informe o valor no campo *(Outras Despesas Acessórias)*, Evidencie os valores nas observações complementares.\n\n*🚨Onde pegar os dados?*\n👉 Acesse o site Portal da NF-e, e cole a chave da nota: (🔐obrigatório uso com Certificado digital do produtor) \n\n🆕 ✅*Reforma tributaria - IBS e CBS*\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem\n\n*Natureza da operação:* Devolução de compra.\n⚠️ Só é devolução se a nota original for de compra, não confunda com notas de Retornos ou remessas, _(Exemplos: 5.949 - 5.554 - 5.912 - 5.905 ...)_\n\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n\n*CFOP:* Selecionar CFOP conforme tipo de devolução\n•⁠  ⁠5.556 – Devolução de Uso e consumo -(Peças e mercado no geral)\n•⁠  ⁠5.553 – Devolução de Ativo imobilizado -(Maquinas no geral)\n•⁠  ⁠5.201 – Devolução de Insumos de produção rural -(Adubos e fertilizantes)\n\n⚠️ Devoluções *Fora do estado CFOP inicia-se com 6.* (6.556)\n\n*Valor:* Descreva conforme a nota de origem\n\n*🔎 Informações Complementares:*\n•⁠  ⁠Devolução total/parcial referente NF nº XXX\n•⁠  ⁠ICMS conforme Art. 657 e 658 do RICMS-MT\n•⁠  ⁠IPI devolvido: R$ XXX,XX\n•⁠  ⁠PIS/COFINS Devolvido: Pis R$ XX,XX - Cofins R$ XX,XX\n⁠•⁠  ICMS-ST da operação original, Base de cálculo do ICMS-ST: R$ XX,XX, Valor do ICMS-ST: R$ XX,XX .",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:26-04:00"
+    },
+    {
+      "id": "4253143c-7769-4433-9bdc-3033f54ae023",
+      "title": "📌 PIS e COFINS",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 PIS e COFINS*\nPadrão para *TODAS* as notas de Produtor rural *PESSOA FÍSICA*\n\n👉PIS *08- SEM INCIDENCIA*\n👉COFINS *08- SEM INCIDENCIA*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:34-04:00"
+    },
+    {
+      "id": "48dc4eb1-90a4-4eb4-897b-a70fe68d1087",
+      "title": "📌 Redução “A” x “DE” – Entenda a diferença",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌 Redução “A” x “DE” – Entenda a diferença*\n\nAo configurar o sistema, é essencial entender como ele interpreta a redução da base de cálculo.\n⚠️ Um simples “A” ou “DE” muda tudo no cálculo.\n\n•⁠  ⁠Redução A → a base de cálculo passa a ser aquele percentual do total\n•⁠  ⁠Redução DE → você tira esse percentual do total e usa o que sobra\n\nOu seja: redução A é o oposto da redução DE\n\nExemplo:\n•⁠  ⁠A 20% = paga sobre 20%\n•⁠  ⁠DE 20% = paga sobre 80%\n\n🧮 Redução A 20%\n1.000 × 20% = 200\n200 × 17% = 34\nICMS = R$ 34,00\n\n🧮 Redução DE 20% *(🤓Equivalente a Redução A 80%)*\n1.000 × 20% = 200\n1.000 – 200 = 800\n800 × 17% = 136\nICMS = R$ 136,00",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:42-04:00"
+    },
+    {
+      "id": "1b2fcd47-448d-4a86-855c-9af4e933a9c9",
+      "title": "📌IBS E CBS - Devolução de NF emitida em 2025",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "IBS CBS"
+      ],
+      "text": "*IBS E CBS - Devolução de NF emitida em 2025*\n\nPeríodo em que não era obrigatório o destaque de IBS e CBS.\nUtilizar os seguintes códigos de enquadramento:\n\n👉 410 / 410031 – Fornecimento ocorrido em período anterior ao início da vigência da incidência de CBS e IBS.",
+      "favorite": false,
+      "updated_at": "2026-10-06T07:39:45-04:00"
+    },
+    {
+      "id": "efb4fde4-fa17-4378-8cd0-0545f3013052",
+      "title": "📌Sobre cancelamento de NF-e",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*📌Sobre cancelamento de NF-e*\n\nSe precisar cancelar uma NF-e, aqui vão as opções e o que precisa ser feito em cada caso:\n\n*✅ 1. Cancelamento normal*\nPode ser feito em até 8 horas depois que a NF-e foi autorizada — desde que a mercadoria ainda não tenha transitado.\n\n*⏳ 2. Cancelamento extemporâneo (fora do prazo)*\nDá pra pedir até o *5º dia útil do mês seguinte* à emissão da nota, mas tem algumas etapas importantes:\n\n1️⃣ Primeiro, verifique se não tem manifesto vigente (MDF-e, CT-e ou registro de passagem).\n2️⃣ Depois, *solicite a recusa da NF-e* ao destinatário.\n3️⃣ Assim que receber o DAR (taxa), faça o pagamento.\n4️⃣ Por fim, o cancelamento é feito direto no seu sistema emissor, e não no site da SEFAZ.\n\nSe você já cumpriu as etapas anteriores *e a recusa da nota já foi feita* , só me envia o PDF da NF para eu gerar a taxa pra você.\n\n👉Acesse o portal NF-e, e digite a chave da NF-e para consultar manifestos (🔐obrigatório uso com Certificado digital do produtor) \n\n⚠️Importante: a recusa feita no portal da NF-e pode levar algumas horas para ser processada e registrada no sistema da SEFAZ — então pode ser necessário aguardar um pouco antes de seguir com o cancelamento.\n\n*Qualquer dúvida, estou à disposição!*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:49-04:00"
+    },
+    {
+      "id": "77575fce-dd54-4056-bafe-1a7ea3a62d71",
+      "title": "📦 TRANSFERÊNCIAS INTERNAS – ENTRE ESTABELECIMENTOS DO MESMO TITULAR (MT)",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "📦 *TRANSFERÊNCIAS INTERNAS – ENTRE ESTABELECIMENTOS DO MESMO TITULAR (MT)*\n \n*Natureza da operação:*  Transferência de _(conforme tipo de bem: produção, insumo, imobilizado, etc...)_\n*Produto:* Definir conforme o tipo de item\n*NCM:* Definir conforme o tipo de item\n*CST:* 041\n*CFOP:* Definir conforme o tipo de item _(tabela abaixo)_\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410002\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:* (usar em todas as transferências):\n✅Não incidência de ICMS com base no § 15 do Art. 3º da parte geral do RICMS/MT \n✅INFORMAR CND E VALIDADE\n\n👉  *CFOP*\n\n🌱 Produção própria (soja, milho, feijão etc.)\n*CFOP: 5.151* – Transferência de produção do estabelecimento\n\n🧪 Insumos agrícolas, defensivos\n*CFOP: 5.152* – Transferência de mercadoria adquirida de terceiros\n\n🔧 Peças e materiais de uso e consumo\n*CFOP: 5.557* – Transferência de material de uso ou consumo\n\n🚜 Máquinas e implementos agrícolas (imobilizado)\n*CFOP: 5.552* – Transferência de bem do ativo imobilizado\n\n⛽ Combustíveis e lubrificantes\n*CFOP: 5.659* – Transferência de combustível ou lubrificante adquirido de terceiro",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:21:57-04:00"
+    },
+    {
+      "id": "abb5e338-e051-4d44-9f54-62433c8ed460",
+      "title": "🗂️ Emissão de NF Entrada Própria",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "🗂️ *Emissão de NF Entrada Própria*\n\n🚨*Tipo de emissão*  0- Entradas🚨\n\n*Natureza da Operação:* Devolução de venda\n*CFOP:* 1.201\n*CST* : Cfe Nota de compra\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Devolução Total referente a NF XXXXX  XX/XX/XX\n⁠✅ICMS conforme Art. 657 do RICMS-MT.\n✅NF de entrada própria, conforme os artigos 201 e 660 do RICMS/MT.\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:22:04-04:00"
+    },
+    {
+      "id": "c3d3dce1-a3dc-42fb-a7b7-ac63200350b8",
+      "title": "🚚REMESSA DE BEM DO ATIVO IMOBILIZADO PARA USO FORA DO ESTABELECIMENTO",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚚REMESSA DE BEM DO ATIVO IMOBILIZADO PARA USO FORA DO ESTABELECIMENTO*\n\n*Natureza da Operação:* Remessa para prestação de serviço\n*CFOP:* 5.554\n*CST* : 041\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDÊNCIA DE ICMS CONFORME ARTIGO 5º, INCISO XV DO RICMS/MT.\n✅Remessa para prestação de serviço com retorno posterior Conforme Contrato entre as partes\n✅Informar CND e validade\n\n⚠️ *Art. 5°, Inciso XV:* Permite enviar máquinas, equipamentos, para outro local com finalidade de manutenção, conserto, empréstimo ou locação, *desde que retornem à origem em até 120 dias* (...) Alínea b: Nos demais casos, o prazo de 120 dias *pode ser prorrogado* se houver pedido prévio;\n\n*⚠️ Os contratos e/ou aditivos,* embora não haja previsão expressa na legislação em questão, recomenda-se que, para produzirem efeitos contra terceiros, sejam registrados em cartório ou assinados digitalmente.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:22:37-04:00"
+    },
+    {
+      "id": "3c7291ef-3281-45b4-a170-26943bfb673e",
+      "title": "🚜 REMESSA DE BEM POR CONTA DE CONTRATO DE COMODATO OU LOCAÇÃO.",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚜 REMESSA DE BEM POR CONTA DE CONTRATO DE COMODATO OU LOCAÇÃO.*\n\n*Natureza da Operação:* Remessa em comodato\n*CFOP:* 5.908\n*CST* : 041\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDÊNCIA DE ICMS CONFORME ARTIGO 5º, INCISO XVII DO RICMS/MT.\n✅Remessa Conforme Contrato entre as partes\n✅Informar CND e validade\n\n\n*⚠️ A operação de Comodato está regulamentada no inciso XVII do Art. 5º do RICMS/MT , e não determina prazo para retorno, vale o que está no contrato, podendo ainda ser prorrogado cfe. §16 do mesmo artigo*\n\n*⚠️ Os contratos e/ou aditivos,* embora não haja previsão expressa na legislação em questão, recomenda-se que, para produzirem efeitos contra terceiros, sejam registrados em cartório ou assinados digitalmente.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:22:45-04:00"
+    },
+    {
+      "id": "0c28b7c6-43ee-4c78-a167-58ffe0cca01c",
+      "title": "🚜ICMS em Venda de Ativo Imobilizado  (🚨Interna)",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚜Venda de Ativo Imobilizado*  (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n⏩SUPERIOR a um Ano de Uso  (ICMS red. a *0*) - Art. 54, § 8º, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT\n\n*🏗️Venda de Maquinas e Equipamentos Gerais*  (🚨Interna)\n\n⏩SUPERIOR a um Ano de Uso (ICMS red. a *20%*) -Art. 54, § 5º, inciso I, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) -Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:23:08-04:00"
+    },
+    {
+      "id": "f766f040-c2bf-4e0a-b18b-2ba31ba4bdb4",
+      "title": "🚜Venda de Ativo Imobilizado -  INFERIOR a um Ano de Uso (🚨Interna)",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚜Venda de Ativo Imobilizado -  INFERIOR a um Ano de Uso* (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n*Natureza da Operação:* venda de bem do ativo imobilizado\n*CFOP:* 5.551\n*CST* : 020\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Base de cálculo do ICMS reduzida para 40%, conforme disposto no Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT\n✅Informar CND e validade\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A 40%* _(ou Redução *De* 60%)_\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 40%: (R$ 1.000,00 × 40%) = R$ 400,00\n*•\tBase efetiva do ICMS: R$ 400,00*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 68,00*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:23:32-04:00"
+    },
+    {
+      "id": "f2eff0fc-9d80-4a95-a46f-cdc3f3fde54e",
+      "title": "🚜Venda de Ativo Imobilizado -  SUPERIOR a um Ano de Uso (🚨Interna)",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚜Venda de Ativo Imobilizado -  SUPERIOR a um Ano de Uso* (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n*Natureza da Operação:* venda de bem do ativo imobilizado\n*CFOP:* 5.551\n*CST* : 020\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Base de cálculo do ICMS reduzida para 0, conforme disposto no Art. 54, § 8º, do Anexo V do RICMS/MT\n✅Informar CND e validade\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A 0%* _(ou Redução *De* 100%)_\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 0%: (R$ 1.000,00 × 0%) = R$ 0,00\n*•\tBase efetiva do ICMS: R$ 0,00*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 0,00*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:23:46-04:00"
+    },
+    {
+      "id": "5991a135-1de0-4bab-98e8-a1dd29a6d711",
+      "title": "🚨 PIS/COFINS Em Devolução",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚨 PIS/COFINS Em Devolução*\n\n⚠️ A legislação federal não exige que o Produtor Rural Pessoa Física destaque PIS e COFINS na NF-e de devolução.\n\n📌 Em regra, não deve haver destaque nos campos próprios da NF-e, pois o Produtor Rural PF não é contribuinte dessas contribuições. (📚 Base legal: Art. 7º da IN RFB nº 2.121/2022.) O destaque pode gerar interpretação indevida, como se estivesse assumindo responsabilidade tributária.\n\n📌 Se necessário, os valores podem ser apenas mencionados em “Informações Complementares”.\n\n*🔎 Atenção ao IBS/CBS*\n\n▶️Se a NF-e de compra tiver destaque de PIS/COFINS, deve-se observar a base de cálculo do IBS e da CBS, pois essas contribuições reduzem a base desses tributos.\n▶️Em alguns sistemas emissores, pode ser necessário informar os valores apenas para fins de ajuste da base do IBS/CBS — sem que isso represente obrigação de destaque tributário.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:23:54-04:00"
+    },
+    {
+      "id": "ec55ea08-f911-4510-ad33-483eb44b4b23",
+      "title": "🚨IPI em Devolução",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚨IPI em Devolução*\n\n⚠️Quando for emitida uma *NF-e de devolução* e a *NF-e de compra tiver destaque de IPI* , mas *o emitente da devolução for NÃO contribuinte do IPI* , o valor relativo ao imposto deverá ser informado no campo *“IPI devolvido”.*\n\nEsse procedimento está previsto na *_Nota Técnica nº 2016.002_ ,* a qual determinou a:\n\n“Inclusão de campo no Grupo Total da NF-e para informar o valor total do IPI (id: W12a) no caso de devolução de mercadoria por estabelecimento não contribuinte desse imposto.”\n\n*👉(NT 2016.002 v1.60 – item 1.2, “Sobre o Leiaute da NF-e”)* \n\nAlém disso, recomenda-se também repetir essa informação no campo *“Informações Complementares”* , a fim de tornar o valor visível no DANFE, pois o campo “IPI devolvido” compõe o arquivo XML da NF-e e integra o Grupo Total, mas não possui campo específico de exibição no DANFE.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:24:17-04:00"
+    },
+    {
+      "id": "a018134f-c3d5-4d86-99e4-b55de12504be",
+      "title": "🛠️Nota de Remessa para conserto",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🛠️Nota de Remessa para conserto* \n\n*Natureza:*  Remessa de mercadoria ou bem para conserto ou reparo\n*Produto:* Cfe. Nota de compra\n*NCM:* Cfe. Nota de compra\n*CST:* 041\n*CFOP:* 5.915\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDENCIA CONFORME ARTIGO 5º INCISO XV DO RICMS/2014\n✅Remessa para concerto com retorno posterior.\n✅INFORMAR CND E VALIDADE",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:24:24-04:00"
+    },
+    {
+      "id": "001bb5e2-1db4-4923-9551-f6ebad558828",
+      "title": "🛣️🚚DEVOLUÇÃO DE BEM DO ATIVO IMOBILIZADO DE TERCEIRO, RECEBIDO PARA USO NO ESTABELECIME...",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🛣️🚚DEVOLUÇÃO DE BEM DO ATIVO IMOBILIZADO DE TERCEIRO, RECEBIDO PARA USO NO ESTABELECIMENTO.*\n\n*Natureza da Operação:* Retorno de prestação de serviço\n*CFOP:* 5.555\n*CST* : 041\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* Valor conforme a nota de origem\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDÊNCIA DE ICMS CONFORME ARTIGO 5º, INCISO XV DO RICMS/MT.\n✅Informar CND e validade \n✅Retorno de Imobilizado conforme nota de entrada Nº XX",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:24:35-04:00"
+    },
+    {
+      "id": "bc8bee3a-4322-49a9-a599-d08c7433224d",
+      "title": "🛣️🚜 RETORNO DE BEM RECEBIDO POR CONTA DE CONTRATO DE COMODATO OU LOCAÇÃO.",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🛣️🚜 RETORNO DE BEM RECEBIDO POR CONTA DE CONTRATO DE COMODATO OU LOCAÇÃO.*\n\n*Natureza da Operação:* Retorno em comodato\n*CFOP:* 5.909\n*CST* : 041\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDÊNCIA DE ICMS CONFORME ARTIGO 5º, INCISO XVII DO RICMS/MT.\n✅Retorno de bem recebido por conta de contrato de comodato referente a NF nº XX em Data XX\n✅Informar CND e validade\n\n\n*⚠️ A operação de Comodato está regulamentada no inciso XVII do Art. 5º do RICMS/MT , e não determina prazo para retorno, vale o que está no contrato, podendo ainda ser prorrogado cfe. §16 do mesmo artigo*\n\n*⚠️ Os contratos e/ou aditivos,* embora não haja previsão expressa na legislação em questão, recomenda-se que, para produzirem efeitos contra terceiros, sejam registrados em cartório ou assinados digitalmente.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:24:49-04:00"
+    },
+    {
+      "id": "fa7af7e5-b16f-4485-bde7-55d5f562d7fe",
+      "title": "🤝PARCERIA AGRICOLA",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🤝PARCERIA AGRICOLA*\n\n*Natureza da operação* Outras saídas - Parceria agrícola\n*CFOP* 5.949\n*CST* 051\n*Produto* Soja em Grão\n*NCM* 12019000\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 7º ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO DECRETO 2.212/2014.\n✅ Nota fiscal emitida referente Remessa de grãos decorrente de PARCERIA AGRICOLA.\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:24:59-04:00"
+    },
+    {
+      "id": "9809cd74-4fd3-486f-9c85-dcae2a1d58f1",
+      "title": "🥖Venda de Trigo - Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🥖Venda de Trigo - Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* TRIGO\n*NCM:* 1001.19.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS diferido conforme Art. 8º do Anexo VII, combinado com os Arts. 573 a 586 do Decreto 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Fethab:\n✅Cadeia Produtiva:\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:25:04-04:00"
+    },
+    {
+      "id": "9343c883-a30e-4c4f-8fa8-6b4a33a14d68",
+      "title": "🥩 Venda de GADO Para Abate – Operação Interna (MT)",
+      "category": "Animais vivos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "🥩 *Venda de GADO Para Abate – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* Bovino, Macho, *_Idade_* (Ex. 0 a 12 meses...)\n*NCM:* 0102.29.90\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO 13 ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO RICMS/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅GTA Nº:\n✅Fethab: \n✅Cadeia Produtiva:\n✅Informar CND e validade\n\n*⚠️  Vendas de Gado para Abate deve ser feitas mediante ao GTA*\nOnde o mesmo deve constar os recolhimentos dos Impostos\n▶️Taxa GTA\n▶️Taxa Fesa-MT\n▶️Fethab Gado\n▶️Cadeia Produtiva (ImpecMT) ‎<Mensagem editada>",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:25:12-04:00"
+    },
+    {
+      "id": "5026da98-5792-44d9-a66e-e0bba776c849",
+      "title": "🧵Venda de Algodão – Operação Interna",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🧵Venda de Algodão – Operação Interna*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto/NCM:* Algodão em pluma/ 5201.00.20\n*Produto/NCM:* Algodão em Caroço/ 5201.00.10\n*Produto/NCM:* Caroço de Algodão/ 1207.29.00\n*Produto/NCM:* Fibrilha de Algodão/ 5202.99.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS diferido conforme Art. 1º do Anexo VII, combinado com os Arts. 573 a 586 do Decreto 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Fethab: _(Somente Algodão em PLUMA)_\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:25:18-04:00"
+    },
+    {
+      "id": "295c1eb8-d62d-4b36-823c-f73fd7c5bf22",
+      "title": "🧵Venda de Algodão – Operação Interna PROALMAT",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🧵Venda de Algodão – Operação Interna PROALMAT*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 020\n*Produto* Algodão em pluma\n*NCM:* 5201.00.10\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅BASE DE CALCULO DO ICMS REDUZIDA A 70,59% CONFORME ARTIGO 7 DO DECRETO 316/2019\n✅CREDITO PRESUMIDO DE ICMS DE 65% CONFORME RESOLUÇÃO N.º 019/2019 - CONDEPRODEMAT\n✅PRODUTOR RURAL CADASTRADO NO PROALMAT CONFORME LEI 10.489/2016.\n✅Icms a Recolher: \n✅Fethab: \n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade\n\n⚠️Demonstrativos de Calculo:\n\n🧮 Base de Cálculo com Redução do *ICMS destacado*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 70,59%: (R$ 1.000,00 × 70,59%) = R$ 705,90\n*•\tBase efetiva do ICMS: R$ 705,90*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 120,00*\n\n🧮 Cálculo do *ICMS e recolher*\n•\tRedução de 65% sob o valor do ICMS destacado\n•\tR$ 120,00 X 65% = R$ 78,00\n•\tValor do benefício: R$ 78,00\n•\tCálculo do ICMS a pagar: R$ 120,00 - R$ 78,00= R$ 42,00\n•\t *Valor do ICMS a pagar: R$ 42,00*",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:25:27-04:00"
+    },
+    {
+      "id": "74fd6c29-659d-415b-96fa-c7c191d7d8ac",
+      "title": "🧾 DESFAZIMENTO DE OPERAÇÃO – SIMPLES FATURAMENTO",
+      "category": "Outros",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🧾 DESFAZIMENTO DE OPERAÇÃO – SIMPLES FATURAMENTO*\n\n*Natureza da Operação:* Desfazimento de Operação.\n*CFOP:* 5.949\n*CST:* 041\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* Valor conforme a nota de origem\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅ Desfazimento da operação referente à NF de Simples Faturamento nº XXX – Data XXX\n✅ Operação documentada internamente conforme distrato ou acordo entre as partes\n✅ Informar CND e validade\n\n*⚠️ Observação Importante:*\nA emissão de NF de devolução (CFOP 5.949) pode ser usada para registrar o desfazimento, mas não é o procedimento correto segundo a SEFAZ/MT.\n\n*📖 Entendimento da SEFAZ/MT:*\nDe acordo com o Art. 353 do RICMS/MT, é vedada a emissão de documento fiscal que não corresponda a uma efetiva saída de mercadoria ou prestação de serviço.\nPor isso, *quando a operação é desfeita antes do envio da mercadoria ao destinatário final, não há que se falar em emissão de documento fiscal.*\n\n*A SEFAZ orienta que as partes:*\n👉Registrem a ocorrência no livro fiscal;\n👉Formalizem a desistência por meio de declaração ou distrato;\n👉 Mantenham esses documentos arquivados para eventual comprovação ao fisco.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:25:37-04:00"
+    },
+    {
+      "id": "b63c7c55-ed56-42e0-882c-603fe88c2366",
+      "title": "🧾 RETIFICAÇÃO DE NF-e – AJUSTE SINIEF 15/2025",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🧾 RETIFICAÇÃO DE NF-e – AJUSTE SINIEF 15/2025* \n\nO que mudou: Agora é possível corrigir NF-e com erro no ato da entrega, com uma *nota de devolução simbólica* , desde que a correção ocorra em até 168 horas (7 dias). Em termos práticos, funciona assim:\n\n▶️ *Se você recebeu* a mercadoria errada, pode fazer a devolução simbólica, sem precisar \"remeter\" os produtos novamente, após isso solicite  a nota correta.\n▶️ *Se você emitiu* a nota errada, deve solicitar ao seu cliente que faça essa devolução simbólica para que a operação seja anulada conforme o Ajuste SINIEF.\n\n ⚠️Dados para Informar na nota:\n\n*Natureza* : “Anulação de operação – Ajuste SINIEF 13/24”\n*CFOP:* / *CST:*  : Seguem a mesma logica de uma devolução tradicional. \n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅ Procedimento autorizado pelo Ajuste SINIEF 13/24, conforme § 7º-A do art. 325 do RICMS/MT.\n👉 Destaque todas as informações de uma devolução tradicional.\n\n▶️Após a anulação simbólica, o remetente deverá emitir nova NF-e com as informações corrigidas,",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:25:59-04:00"
+    },
+    {
+      "id": "bf69499d-794b-492a-9863-4bdff79a86b2",
+      "title": "🪵Venda de Madeira – Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🪵Venda de Madeira – Operação Interna (MT)* \n🚨Destinatário Empresas do *Simples nacional* 🚨\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 020\n*Produto / NCM*\n•\t*NCM 4401.11.00* – Lenha de Coníferas (folhas em agulha) → Pinus, Cedro, Araucária (queima rápida, mais resinosa, mais leve)\n•\t*NCM 4401.12.00* – Lenha de Não Coníferas (folhas largas) → Eucalipto, Ipê, Cumaru, Seringueira (queima lenta, mais densa, menos resina)\n•\t*NCM 4403.99.00* – Madeira in natura / tora / madeira simplesmente serrada (tronco bruto cortado)\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅ BASE CÁLCULO REDUZIDA A 17,65% CFE. ARTIGO 34-A ANEXO V DO RICMS/2014\n✅ Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅ SENAR 0,20%.\n✅ Informar CND e validade.\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 17,65%: (R$ 1.000,00 × 17,65%) = R$176,50\n*•\tBase efetiva do ICMS: R$ 176,50*\n*•\tAlíquota interna: 17%*\n*•\tValor do ICMS destacado: R$ 30,00*\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A:* *17,65%* _(ou Redução *De* 82,32%)_",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:26:08-04:00"
+    },
+    {
+      "id": "dbe3b16d-5e36-47dd-a341-a33a851ff896",
+      "title": "🪵Venda de Madeira – Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🪵Venda de Madeira – Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto / NCM*\n•\t*NCM 4401.11.00* – Lenha de Coníferas (folhas em agulha) → Pinus, Cedro, Araucária (queima rápida, mais resinosa, mais leve)\n•\t*NCM 4401.12.00* – Lenha de Não Coníferas (folhas largas) → Eucalipto, Ipê, Cumaru, Seringueira (queima lenta, mais densa, menos resina)\n•\t*NCM 4403.99.00* – Madeira in natura / tora / madeira simplesmente serrada (tronco bruto cortado)\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n*🔎 Informações Complementares:*\n✅ ICMS diferido cfe. Art. 10 do RICMS/MT (Anexo VII), combinado com Arts. 573 a 586 do Decreto 2.212/2014.\n✅ Não incidência do FETHAB Cfe. Art. 27-I-2, §2º, I do RICMS/MT\n✅ Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅ SENAR 0,20%.\n✅ Informar CND e validade.\n\n*⚠️Cuidados Fiscais com o FETHAB* \nArtigo. 27-I-2 (..) § 2°\nI - às operações internas com madeira em tora, madeira serrada e madeira beneficiada destinada para industrialização no território mato-grossense, ainda que por conta própria ou de terceiros, inclusive de lenha para consumo no processo industrial.",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:26:15-04:00"
+    },
+    {
+      "id": "2a4de0be-7007-49a1-9cf3-b2f44bfdaba0",
+      "title": "🫘Venda de Feijão – Operação Interestadual",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🫘Venda de Feijão – Operação Interestadual*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 6.101\n*CST:* 000\n*Produto:* Feijão\n*NCM:* 0713.33.19   0713.33.99\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅CREDITO DE ICMS OUTORGADO EM 62,50%, CONF. RESOLUCAO CONDEPRODEMAT 76/2021\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅ICMS a Recolher: \n✅Fundes:\n✅Informar CND e validade\n✅Motorista e CPF\n\nDemonstrativos de Calculo:\n\n🧮 Base de Cálculo do *ICMS destacado*\n•\t *Base de Calculo (Cheia): R$ 1.000,00* \n•\t *Alíquota interestadual 12%*\n•         R$ 1.000,00 X 12%= R$ 120,00\n•\t *Valor do ICMS destacado: R$ 120,00*\n\n🧮 Cálculo do *ICMS e recolher*\n•\tRedução de 62,50% sob o valor do ICMS destacado\n•\tR$ 120,00 X 62,50% = R$ 75,00\n•\tValor do benefício: R$ 75,00\n•\tCálculo do ICMS a pagar: R$ 120,00 - R$ 75,00= R$ 45,00\n•\t *Valor do ICMS a pagar: R$ 45,00*\n\n🧮 *Cálculo do FUNDES*\n•\tValor do benefício: R$ 75,00\n•\tFundes: 1%\n•\tCalculo: R$ 75,00 – 1% = R$ 0,75\n•\t *Valor a pagar de FUNDES: R$ 0,75*\n•\t COD FUNDES: 9816",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:26:23-04:00"
+    },
+    {
+      "id": "bd049237-8d63-4a90-b4ef-6e7c56f5f2e8",
+      "title": "🫘Venda de Feijão– Operação Interna (MT)",
+      "category": "Grãos",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🫘Venda de Feijão– Operação Interna (MT)*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* Feijão\n*NCM:* 0713.33.19   0713.33.99\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS diferido conforme Art. 6º do Anexo VII, combinado com os Arts. 573 a 586 do Decreto 2.212/2014.\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Fethab: \n✅Cadeia Produtiva:\n✅Informar CND e validade",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:26:29-04:00"
+    },
+    {
+      "id": "14b6104d-38de-43a2-b1f5-2f8bde18f3f6",
+      "title": "🫙Devolução de Vasilhame e Embalagens",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🫙Devolução de Vasilhame e Embalagens* \n\n*Natureza:*  Devolução de embalagens\n*Produto:* Cfe. Nota de compra\n*NCM:* Cfe. Nota de compra\n*CST:* 040\n*CFOP:* 5.921\n*Valor:* Cfe. Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS Isento conforme Art. 82 do Anexo IV do RICMS/MT\n✅Devolução de embalagem conforme NF XXXXX\n✅INFORMAR CND E VALIDADE",
+      "favorite": false,
+      "updated_at": "2026-10-05T09:26:34-04:00"
     }
   ]
 }
