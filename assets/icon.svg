@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Atalhos Fiscal">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#44e56f"/><stop offset="1" stop-color="#0b8f4b"/></linearGradient></defs>
+<path fill="url(#g)" d="M128 18c-61 0-110 42-110 94 0 30 16 57 42 74l-11 48 50-27c9 2 19 3 29 3 61 0 110-42 110-94S189 18 128 18z"/>
+<rect x="64" y="58" width="96" height="122" rx="14" fill="#fff"/><path d="M80 83h64M80 103h64M80 123h42M80 143h50" stroke="#69839a" stroke-width="9" stroke-linecap="round"/>
+<rect x="145" y="94" width="55" height="76" rx="12" fill="#20354a"/><rect x="154" y="104" width="37" height="15" rx="4" fill="#57dd77"/><g fill="#d8e0e8"><rect x="154" y="128" width="12" height="12" rx="3"/><rect x="171" y="128" width="12" height="12" rx="3"/><rect x="154" y="145" width="12" height="12" rx="3"/></g><rect x="171" y="145" width="20" height="12" rx="3" fill="#35d763"/>
+<circle cx="170" cy="171" r="31" fill="#2bd35d" stroke="#b2ffbf" stroke-width="5"/><path d="M154 171l11 11 22-26" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
