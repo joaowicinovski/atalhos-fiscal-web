@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T07:11:41-04:00",
+  "generated_at": "2026-10-09T07:14:24-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -445,6 +445,17 @@
       "updated_at": "2026-10-05T09:21:34-04:00"
     },
     {
+      "id": "5991a135-1de0-4bab-98e8-a1dd29a6d711",
+      "title": "📌 PIS/COFINS Em Devolução",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚨 PIS/COFINS Em Devolução*\n\n⚠️ A legislação federal não exige que o Produtor Rural Pessoa Física destaque PIS e COFINS na NF-e de devolução.\n\n📌 Em regra, não deve haver destaque nos campos próprios da NF-e, pois o Produtor Rural PF não é contribuinte dessas contribuições. (📚 Base legal: Art. 7º da IN RFB nº 2.121/2022.) O destaque pode gerar interpretação indevida, como se estivesse assumindo responsabilidade tributária.\n\n📌 Se necessário, os valores podem ser apenas mencionados em “Informações Complementares”.\n\n*🔎 Atenção ao IBS/CBS*\n\n▶️Se a NF-e de compra tiver destaque de PIS/COFINS, deve-se observar a base de cálculo do IBS e da CBS, pois essas contribuições reduzem a base desses tributos.\n▶️Em alguns sistemas emissores, pode ser necessário informar os valores apenas para fins de ajuste da base do IBS/CBS — sem que isso represente obrigação de destaque tributário.",
+      "favorite": false,
+      "updated_at": "2026-10-09T07:14:21-04:00"
+    },
+    {
       "id": "48dc4eb1-90a4-4eb4-897b-a70fe68d1087",
       "title": "📌 Redução “A” x “DE” – Entenda a diferença",
       "category": "Outros",
@@ -553,17 +564,6 @@
       "text": "*🚜Venda de Ativo Imobilizado -  SUPERIOR a um Ano de Uso* (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n*Natureza da Operação:* venda de bem do ativo imobilizado\n*CFOP:* 5.551\n*CST* : 020\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Base de cálculo do ICMS reduzida para 0, conforme disposto no Art. 54, § 8º, do Anexo V do RICMS/MT\n✅Informar CND e validade\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A 0%* _(ou Redução *De* 100%)_\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 0%: (R$ 1.000,00 × 0%) = R$ 0,00\n*•\tBase efetiva do ICMS: R$ 0,00*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 0,00*",
       "favorite": false,
       "updated_at": "2026-10-05T09:23:46-04:00"
-    },
-    {
-      "id": "5991a135-1de0-4bab-98e8-a1dd29a6d711",
-      "title": "🚨 PIS/COFINS Em Devolução",
-      "category": "DEVOLUÇÃO",
-      "keywords": [
-        "ICC Contabilidade"
-      ],
-      "text": "*🚨 PIS/COFINS Em Devolução*\n\n⚠️ A legislação federal não exige que o Produtor Rural Pessoa Física destaque PIS e COFINS na NF-e de devolução.\n\n📌 Em regra, não deve haver destaque nos campos próprios da NF-e, pois o Produtor Rural PF não é contribuinte dessas contribuições. (📚 Base legal: Art. 7º da IN RFB nº 2.121/2022.) O destaque pode gerar interpretação indevida, como se estivesse assumindo responsabilidade tributária.\n\n📌 Se necessário, os valores podem ser apenas mencionados em “Informações Complementares”.\n\n*🔎 Atenção ao IBS/CBS*\n\n▶️Se a NF-e de compra tiver destaque de PIS/COFINS, deve-se observar a base de cálculo do IBS e da CBS, pois essas contribuições reduzem a base desses tributos.\n▶️Em alguns sistemas emissores, pode ser necessário informar os valores apenas para fins de ajuste da base do IBS/CBS — sem que isso represente obrigação de destaque tributário.",
-      "favorite": false,
-      "updated_at": "2026-10-05T09:23:54-04:00"
     },
     {
       "id": "ec55ea08-f911-4510-ad33-483eb44b4b23",
