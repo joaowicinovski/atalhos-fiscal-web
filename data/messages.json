@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T07:14:24-04:00",
+  "generated_at": "2026-10-09T07:14:37-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -478,6 +478,17 @@
       "updated_at": "2026-10-06T07:39:45-04:00"
     },
     {
+      "id": "ec55ea08-f911-4510-ad33-483eb44b4b23",
+      "title": "📌IPI em Devolução",
+      "category": "DEVOLUÇÃO",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚨IPI em Devolução*\n\n⚠️Quando for emitida uma *NF-e de devolução* e a *NF-e de compra tiver destaque de IPI* , mas *o emitente da devolução for NÃO contribuinte do IPI* , o valor relativo ao imposto deverá ser informado no campo *“IPI devolvido”.*\n\nEsse procedimento está previsto na *_Nota Técnica nº 2016.002_ ,* a qual determinou a:\n\n“Inclusão de campo no Grupo Total da NF-e para informar o valor total do IPI (id: W12a) no caso de devolução de mercadoria por estabelecimento não contribuinte desse imposto.”\n\n*👉(NT 2016.002 v1.60 – item 1.2, “Sobre o Leiaute da NF-e”)* \n\nAlém disso, recomenda-se também repetir essa informação no campo *“Informações Complementares”* , a fim de tornar o valor visível no DANFE, pois o campo “IPI devolvido” compõe o arquivo XML da NF-e e integra o Grupo Total, mas não possui campo específico de exibição no DANFE.",
+      "favorite": false,
+      "updated_at": "2026-10-09T07:14:35-04:00"
+    },
+    {
       "id": "efb4fde4-fa17-4378-8cd0-0545f3013052",
       "title": "📌Sobre cancelamento de NF-e",
       "category": "Outros",
@@ -564,17 +575,6 @@
       "text": "*🚜Venda de Ativo Imobilizado -  SUPERIOR a um Ano de Uso* (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n*Natureza da Operação:* venda de bem do ativo imobilizado\n*CFOP:* 5.551\n*CST* : 020\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 000\n*CclassTriub.:* 000001\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Base de cálculo do ICMS reduzida para 0, conforme disposto no Art. 54, § 8º, do Anexo V do RICMS/MT\n✅Informar CND e validade\n\n⚠️Modalidade da base de cálculo: *valor da operação*\n⚠️Alíquota de ICMS: *17%* \n⚠️Percentual de redução *A 0%* _(ou Redução *De* 100%)_\n\n*🧮 Demonstrativo da Base de Cálculo do ICMS com Redução*\n•\tBase cheia: R$ 1.000,00\n•\tRedução A 0%: (R$ 1.000,00 × 0%) = R$ 0,00\n*•\tBase efetiva do ICMS: R$ 0,00*\n*•\tAlíquota interestadual: 17%*\n*•\tValor do ICMS destacado: R$ 0,00*",
       "favorite": false,
       "updated_at": "2026-10-05T09:23:46-04:00"
-    },
-    {
-      "id": "ec55ea08-f911-4510-ad33-483eb44b4b23",
-      "title": "🚨IPI em Devolução",
-      "category": "DEVOLUÇÃO",
-      "keywords": [
-        "ICC Contabilidade"
-      ],
-      "text": "*🚨IPI em Devolução*\n\n⚠️Quando for emitida uma *NF-e de devolução* e a *NF-e de compra tiver destaque de IPI* , mas *o emitente da devolução for NÃO contribuinte do IPI* , o valor relativo ao imposto deverá ser informado no campo *“IPI devolvido”.*\n\nEsse procedimento está previsto na *_Nota Técnica nº 2016.002_ ,* a qual determinou a:\n\n“Inclusão de campo no Grupo Total da NF-e para informar o valor total do IPI (id: W12a) no caso de devolução de mercadoria por estabelecimento não contribuinte desse imposto.”\n\n*👉(NT 2016.002 v1.60 – item 1.2, “Sobre o Leiaute da NF-e”)* \n\nAlém disso, recomenda-se também repetir essa informação no campo *“Informações Complementares”* , a fim de tornar o valor visível no DANFE, pois o campo “IPI devolvido” compõe o arquivo XML da NF-e e integra o Grupo Total, mas não possui campo específico de exibição no DANFE.",
-      "favorite": false,
-      "updated_at": "2026-10-05T09:24:17-04:00"
     },
     {
       "id": "a018134f-c3d5-4d86-99e4-b55de12504be",
