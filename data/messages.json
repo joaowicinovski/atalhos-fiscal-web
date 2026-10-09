@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T07:16:33-04:00",
+  "generated_at": "2026-10-09T07:16:57-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -513,13 +513,13 @@
     {
       "id": "abb5e338-e051-4d44-9f54-62433c8ed460",
       "title": "🗂️ Emissão de NF Entrada Própria",
-      "category": "Outros",
+      "category": "DEVOLUÇÃO",
       "keywords": [
         "ICC Contabilidade"
       ],
       "text": "🗂️ *Emissão de NF Entrada Própria*\n\n🚨*Tipo de emissão*  0- Entradas🚨\n\n*Natureza da Operação:* Devolução de venda\n*CFOP:* 1.201\n*CST* : Cfe Nota de compra\n*NCM:* Cfe Nota de compra\n*Descrição* . Cfe Nota de compra\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅Devolução Total referente a NF XXXXX  XX/XX/XX\n⁠✅ICMS conforme Art. 657 do RICMS-MT.\n✅NF de entrada própria, conforme os artigos 201 e 660 do RICMS/MT.\n✅Informar CND e validade",
       "favorite": false,
-      "updated_at": "2026-10-05T09:22:04-04:00"
+      "updated_at": "2026-10-09T07:16:55-04:00"
     },
     {
       "id": "c3d3dce1-a3dc-42fb-a7b7-ac63200350b8",
