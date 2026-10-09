@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T07:16:57-04:00",
+  "generated_at": "2026-10-09T07:17:46-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -359,13 +359,13 @@
     {
       "id": "c98042b9-d2f2-4c10-bf03-d4504d0d3017",
       "title": "📌 (ENTRADA PROPRIA) Orientação",
-      "category": "DEVOLUÇÃO",
+      "category": "Outros",
       "keywords": [
         "ICC Contabilidade"
       ],
       "text": "*📌 (ENTRADA PROPRIA) Erro na NF-e, e perdeu o prazo pra cancelar? Posso fazer entrada própria?*\n\nAntes de tudo, vamos lembrar os prazos de cancelamento:\n\n✅ Cancelamento normal: até 8h após a autorização, desde que a mercadoria não tenha circulado.\n✅ Cancelamento extemporâneo: pode ser solicitado até o 5º dia útil do mês seguinte.\n\nSe não for mais possível cancelar, aí sim entra a entrada própria, mas só em casos bem específicos.\n\n*Quando a entrada própria é permitida:*\n\n1️⃣ A mercadoria foi enviada, porem a NF-e esta errada;\n2️⃣ O destinatário recusou formalmente o recebimento;\n3️⃣ A mercadoria retornou com a mesma nota, com o motivo da recusa anotado no verso.\n\n➡️ Nessas condições, a empresa pode emitir uma NF de entrada própria, conforme os artigos 201 e 660 do RICMS/MT.\n\n*🚫 Atenção:*\nSe perdeu o prazo, fale com a gente antes de agir, assim garantimos a solução mais segura.\nNão use entrada própria só pra \"fechar a conta\" quando não houve recusa real nem devolução física. Isso pode trazer problemas com o fisco.\nSempre que possível, priorize o cancelamento.\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* Cfe NF Origem\n*CclassTriub.:* Cfe NF Origem",
       "favorite": false,
-      "updated_at": "2026-10-09T07:16:30-04:00"
+      "updated_at": "2026-10-09T07:17:44-04:00"
     },
     {
       "id": "48107fbe-9ba3-4356-94e7-042bbf5cd476",
