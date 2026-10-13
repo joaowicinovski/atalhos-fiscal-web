@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T07:17:46-04:00",
+  "generated_at": "2026-10-13T09:50:09-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -109,9 +109,9 @@
       "keywords": [
         "ICC Contabilidade"
       ],
-      "text": "🍂 *Venda de Feno e Silagem*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 051\n*Produto:* (Cfe. Produto) Feno // silagem\n*NCM:* 1214.90.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200038\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS ISENTO CONFORME ARTIGO 115 ANEXO IV DO RICMS-MT\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
+      "text": "🍂 *Venda de Feno e Silagem*\n\n*Natureza da Operação:* Venda de produção própria\n*CFOP:* 5.101\n*CST:* 040\n*Produto:* (Cfe. Produto) Feno // silagem\n*NCM:* 1214.90.00\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200038\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS ISENTO CONFORME ARTIGO 115 ANEXO IV DO RICMS-MT\n✅Funrural: opção pela folha de salários conforme Lei 13.606/2018\n✅Senar 0,20%\n✅Informar CND e validade",
       "favorite": false,
-      "updated_at": "2026-10-05T09:18:35-04:00"
+      "updated_at": "2026-10-13T09:50:06-04:00"
     },
     {
       "id": "c23d87db-042f-4b1c-936c-bfd7ab50cdcc",
