@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T09:50:09-04:00",
+  "generated_at": "2026-10-27T13:37:47-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -352,9 +352,9 @@
       "keywords": [
         "ICC Contabilidade"
       ],
-      "text": "📄 *Operação Simples faturamento (Nota Mãe e Nota Filha)*\n\n👉*1º OPERAÇÃO*\n*NATUREZA:* SIMPLES FATURAMENTO DECORRENTE DE VENDA PARA ENTREGA FUTURA\n*Produto:* Definir conforme o tipo de item (soja, milho ...)\n*NCM:* Definir conforme o tipo de item\n*CFOP* 5.922\n*CST* 041\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅SEM DESTAQUE DE ICMS CONFORME ART. 182 DO RICMS/MT 2014\n✅SENAR 0,20%\n✅INFORMAR CND E VALIDADE\n\n\n👉*2º OPERAÇÃO*\n*NATUREZA:* VENDA DE PRODUÇÃO DE ENTREGA FUTURA.\n*Produto:* Definir conforme o tipo de item (soja, milho ...)\n*NCM:* Definir conforme o tipo de item\n*CFOP* 5.116\n*CST* 051\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO ___ ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO RICMS/MT 2014\n✅Remessa de Entrega Futura referente nota XXXX (§ 2°, Art. 182 das DP do RICMS-MT)\n✅Informar Tributos pertinente ao produto Vendido.\n✅INFORMAR CND E VALIDADE",
+      "text": "📄 *Operação Simples faturamento (Nota Mãe e Nota Filha)*\n\n📌 **IMPORTANTE – INCIDÊNCIA DO FUNRURAL**\n\nNas vendas para entrega futura, quando o contrato estabelecer que a venda depende da produção ou entrega da mercadoria (cláusula suspensiva), o **FUNRURAL deverá ser calculado na Nota Fiscal de Venda da Produção (CFOP 5.116)**, e não na Nota Fiscal de Simples Faturamento (CFOP 5.922).\n\nEssa orientação segue o **art. 147, § 5º, da IN RFB nº 2.110/2022**, considerando as condições previstas no contrato.\n\n\n👉*1º OPERAÇÃO*\n*NATUREZA:* SIMPLES FATURAMENTO DECORRENTE DE VENDA PARA ENTREGA FUTURA\n*Produto:* Definir conforme o tipo de item (soja, milho ...)\n*NCM:* Definir conforme o tipo de item\n*CFOP* 5.922\n*CST* 041\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅SEM DESTAQUE DE ICMS CONFORME ART. 182 DO RICMS/MT 2014\n✅INFORMAR CND E VALIDADE\n✅FUNRURAL APURADO NA EMISSÃO DA NOTA FISCAL DE VENDA DA PRODUÇÃO (CFOP 5.116), CONFORME ART. 147, § 5º, DA IN RFB Nº 2.110/2022.\n\n\n👉*2º OPERAÇÃO*\n*NATUREZA:* VENDA DE PRODUÇÃO DE ENTREGA FUTURA.\n*Produto:* Definir conforme o tipo de item (soja, milho ...)\n*NCM:* Definir conforme o tipo de item\n*CFOP* 5.116\n*CST* 051\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 200\n*CclassTriub.:* 200036\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅ICMS DIFERIDO CONFORME ARTIGO ___ ANEXO VII, COMBINADO COM ARTIGO 573 A 586 DO RICMS/MT 2014\n✅Remessa de Entrega Futura referente nota XXXX (§ 2°, Art. 182 das DP do RICMS-MT)\n✅SENAR:\n✅Informar Tributos pertinente ao produto Vendido.\n✅INFORMAR CND E VALIDADE",
       "favorite": false,
-      "updated_at": "2026-10-05T09:20:52-04:00"
+      "updated_at": "2026-10-27T13:37:43-04:00"
     },
     {
       "id": "c98042b9-d2f2-4c10-bf03-d4504d0d3017",
