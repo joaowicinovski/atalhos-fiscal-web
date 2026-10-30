@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T13:37:47-04:00",
+  "generated_at": "2026-10-30T09:53:48-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -385,9 +385,9 @@
       "keywords": [
         "ICC Contabilidade"
       ],
-      "text": "*📌 CFOP em Devolução – Atenção para operações com ST*\n\nNa entrada, o destinatário/adquirente deve classificar o CFOP conforme a destinação da mercadoria no seu estabelecimento, respeitando o regime tributário da operação.\n\nNas operações normais, geralmente utilizadas pelo produtor rural:\n\n• *Produção rural* : Entrada 1.101 / Devolução *5.201*\n• *Uso e consumo* : Entrada 1.556 / Devolução *5.556*\n• *Imobilizado*: Entrada 1.551 / Devolução *5.553*\n\n⚠️ Porém, se a mercadoria estiver sujeita à *Substituição Tributária – ST* , devem ser observados os CFOPs específicos:\n\n• *Produção rural*: Entrada 1.401 / Devolução *5.410*\n• *Uso e consumo* : Entrada 1.407 / Devolução *5.413*\n• *Imobilizado* : Entrada 1.406 / Devolução *5.412*\n\n📌 Observação prática:\nQuando a mercadoria estiver sujeita à ST, o correto é verificar o CFOP específico da operação antes da emissão.\n\nNa prática, pode ocorrer de o destinatário/fornecedor solicitar ou aceitar CFOP diferente por questão de parametrização do sistema. Nesses casos, recomendamos alinhar previamente com a outra parte antes da emissão da NF-e, pois a responsabilidade pela informação fiscal permanece de quem emite o documento.\n\n📚 Base legal:\nINFORMAÇÃO Nº 100/2026 - UDCR/UNERC MT ‎<Mensagem editada>",
+      "text": "*📌 CFOP em Devolução – Atenção para operações com ST*\n\nNa entrada, o destinatário/adquirente deve classificar o CFOP conforme a destinação da mercadoria no seu estabelecimento, respeitando o regime tributário da operação.\n\nNas operações normais, geralmente utilizadas pelo produtor rural:\n\n• *Produção rural* : Entrada 1.101 / Devolução *5.201*\n• *Uso e consumo* : Entrada 1.556 / Devolução *5.556*\n• *Imobilizado*: Entrada 1.551 / Devolução *5.553*\n\n⚠️ Porém, se a mercadoria estiver sujeita à *Substituição Tributária – ST* , devem ser observados os CFOPs específicos:\n\n• *Produção rural*: Entrada 1.401 / Devolução *5.410*\n• *Uso e consumo* : Entrada 1.407 / Devolução *5.413*\n• *Imobilizado* : Entrada 1.406 / Devolução *5.412*\n\n📌 Observação prática:\nQuando a mercadoria estiver sujeita à ST, o correto é verificar o CFOP específico da operação antes da emissão.\n\nNa prática, pode ocorrer de o destinatário/fornecedor solicitar ou aceitar CFOP diferente por questão de parametrização do sistema. Nesses casos, recomendamos alinhar previamente com a outra parte antes da emissão da NF-e, pois a responsabilidade pela informação fiscal permanece de quem emite o documento.\n\n📚 Base legal:\nINFORMAÇÃO Nº 100/2026 - UDCR/UNERC MT",
       "favorite": false,
-      "updated_at": "2026-09-24T13:05:26-04:00"
+      "updated_at": "2026-10-30T09:53:46-04:00"
     },
     {
       "id": "cc328757-51c5-4ec3-ab1a-e2a156cbd457",
