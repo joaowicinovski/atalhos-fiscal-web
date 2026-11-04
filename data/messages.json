@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T09:53:48-04:00",
+  "generated_at": "2026-11-04T16:55:19-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -533,6 +533,17 @@
       "updated_at": "2026-10-05T09:22:37-04:00"
     },
     {
+      "id": "0c28b7c6-43ee-4c78-a167-58ffe0cca01c",
+      "title": "🚜 Ativo Imobilizado Redução (🚨Interna)",
+      "category": "Imobilizados",
+      "keywords": [
+        "ICC Contabilidade"
+      ],
+      "text": "*🚜Venda de Ativo Imobilizado*  (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n⏩SUPERIOR a um Ano de Uso  (ICMS red. a *0*) - Art. 54, § 8º, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT\n\n*🏗️Venda de Maquinas e Equipamentos Gerais*  (🚨Interna)\n\n⏩SUPERIOR a um Ano de Uso (ICMS red. a *20%*) -Art. 54, § 5º, inciso I, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) -Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT",
+      "favorite": false,
+      "updated_at": "2026-11-04T16:55:17-04:00"
+    },
+    {
       "id": "3c7291ef-3281-45b4-a170-26943bfb673e",
       "title": "🚜 REMESSA DE BEM POR CONTA DE CONTRATO DE COMODATO OU LOCAÇÃO.",
       "category": "Imobilizados",
@@ -542,17 +553,6 @@
       "text": "*🚜 REMESSA DE BEM POR CONTA DE CONTRATO DE COMODATO OU LOCAÇÃO.*\n\n*Natureza da Operação:* Remessa em comodato\n*CFOP:* 5.908\n*CST* : 041\n*Produto:* Descreva conforme a nota de origem\n*NCM:* Descreva conforme a nota de origem\n*Valor:* Valor de mercado\n\n🆕 *Reforma tributaria - IBS e CBS*\n_Orientação provisória_\n*Cst:* 410\n*CclassTriub.:* 410999\n\n*▶️ Outros Tributos:*\n👉IPI:  *SEM PREENCHIMENTO*\n👉PIS:  *08- SEM INCIDENCIA*\n👉COFINS:  *08- SEM INCIDENCIA*\n\n🔎 *Informações Complementares:*\n✅NÃO INCIDÊNCIA DE ICMS CONFORME ARTIGO 5º, INCISO XVII DO RICMS/MT.\n✅Remessa Conforme Contrato entre as partes\n✅Informar CND e validade\n\n\n*⚠️ A operação de Comodato está regulamentada no inciso XVII do Art. 5º do RICMS/MT , e não determina prazo para retorno, vale o que está no contrato, podendo ainda ser prorrogado cfe. §16 do mesmo artigo*\n\n*⚠️ Os contratos e/ou aditivos,* embora não haja previsão expressa na legislação em questão, recomenda-se que, para produzirem efeitos contra terceiros, sejam registrados em cartório ou assinados digitalmente.",
       "favorite": false,
       "updated_at": "2026-10-05T09:22:45-04:00"
-    },
-    {
-      "id": "0c28b7c6-43ee-4c78-a167-58ffe0cca01c",
-      "title": "🚜ICMS em Venda de Ativo Imobilizado  (🚨Interna)",
-      "category": "Imobilizados",
-      "keywords": [
-        "ICC Contabilidade"
-      ],
-      "text": "*🚜Venda de Ativo Imobilizado*  (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n⏩SUPERIOR a um Ano de Uso  (ICMS red. a *0*) - Art. 54, § 8º, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT\n\n*🏗️Venda de Maquinas e Equipamentos Gerais*  (🚨Interna)\n\n⏩SUPERIOR a um Ano de Uso (ICMS red. a *20%*) -Art. 54, § 5º, inciso I, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) -Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT",
-      "favorite": false,
-      "updated_at": "2026-10-05T09:23:08-04:00"
     },
     {
       "id": "f766f040-c2bf-4e0a-b18b-2ba31ba4bdb4",
