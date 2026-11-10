@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T16:55:19-04:00",
+  "generated_at": "2026-11-10T10:38:21-04:00",
   "source": "Atalhos Fiscal Windows — publicação manual autorizada",
   "messages": [
     {
@@ -534,14 +534,14 @@
     },
     {
       "id": "0c28b7c6-43ee-4c78-a167-58ffe0cca01c",
-      "title": "🚜 Ativo Imobilizado Redução (🚨Interna)",
+      "title": "🚜 Redução - Ativo Imobilizado (🚨Interna)",
       "category": "Imobilizados",
       "keywords": [
         "ICC Contabilidade"
       ],
       "text": "*🚜Venda de Ativo Imobilizado*  (🚨Interna)\n(NCMs listados no Anexo II do convenio 52/91)\n\n⏩SUPERIOR a um Ano de Uso  (ICMS red. a *0*) - Art. 54, § 8º, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT\n\n*🏗️Venda de Maquinas e Equipamentos Gerais*  (🚨Interna)\n\n⏩SUPERIOR a um Ano de Uso (ICMS red. a *20%*) -Art. 54, § 5º, inciso I, do Anexo V do RICMS/MT\n⏪INFERIOR a um Ano de Uso (ICMS red. a *40%*) -Art. 54, § 5º, inciso II, do Anexo V do RICMS/MT",
       "favorite": false,
-      "updated_at": "2026-11-04T16:55:17-04:00"
+      "updated_at": "2026-11-10T10:38:19-04:00"
     },
     {
       "id": "3c7291ef-3281-45b4-a170-26943bfb673e",
